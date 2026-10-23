@@ -1,0 +1,19 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Sliding thumb">
+<circle cx="11" cy="11" r="11" fill="url(#paint0_linear_0_773)"/>
+<circle cx="11" cy="11" r="10.6" stroke="url(#paint1_linear_0_773)" stroke-opacity="0.7" stroke-width="0.8"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_773" x1="0" y1="11" x2="22" y2="11" gradientUnits="userSpaceOnUse">
+<stop stop-color="#654035"/>
+<stop offset="0.6" stop-color="#915745"/>
+<stop offset="1" stop-color="#A8624F"/>
+</linearGradient>
+<linearGradient id="paint1_linear_0_773" x1="-1.10689" y1="5.04872" x2="18.9759" y2="15.5572" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A8624F"/>
+<stop offset="0.43" stop-color="#B59060"/>
+<stop offset="0.67" stop-color="#D0B789"/>
+<stop offset="1" stop-color="#A8624F"/>
+</linearGradient>
+</defs>
+</svg>

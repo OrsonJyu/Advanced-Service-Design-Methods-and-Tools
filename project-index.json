@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "archive_version": "0.1.0",
+  "updated_on": "2026-10-24",
+  "timezone": "Asia/Hong_Kong",
+  "project": "SD5412 Mandarin Oriental service design",
+  "presentation_title": "The Unsaid",
+  "navigation": {
+    "start": "README.md",
+    "by_purpose": "INDEX.md",
+    "complete_catalog": "CATALOG.md",
+    "machine_catalog": "catalog.json",
+    "current_status": "PROJECT_STATUS.md",
+    "agent_instructions": "AGENTS.md",
+    "artifacts": "docs/04-artifact-register.md",
+    "coverage": "docs/05-migration-report.md"
+  },
+  "sources": [
+    "archive/source-manifest.json",
+    "archive/icloud-manifest.json",
+    "deliverables/figma/2026-10-24/asset-manifest.json",
+    "archive/derived-manifest.json"
+  ],
+  "key_outputs": [
+    {
+      "id": "case-study-csm",
+      "path": "deliverables/reading-copies/case-study-csm-v0.1.0.pdf",
+      "pages": 20,
+      "status": "archived PDF reading copy"
+    },
+    {
+      "id": "presentation",
+      "path": "deliverables/reading-copies/presentation-36-slides-v0.1.0.pdf",
+      "pages": 36,
+      "status": "archived raster PDF reading copy",
+      "text_and_notes": "deliverables/figma/2026-10-24/presentation.json"
+    },
+    {
+      "id": "room-prototype",
+      "path": "prototypes/mo-room-preferences/index.html",
+      "instructions": "prototypes/mo-room-preferences/README.md",
+      "status": "runnable static prototype; no deployment"
+    }
+  ],
+  "limitations": [
+    "Only simple post-concept simulation; no real user testing",
+    "Original 20 A3 frames hidden; text archived, visual export unavailable",
+    "Native Figma and full interaction backup not acquired",
+    "Some original images/vectors exceed per-call export cap",
+    "Recent conversations are partial tool-returned records",
+    "Crazy 8 and A5 originals to be supplied later"
+  ]
+}

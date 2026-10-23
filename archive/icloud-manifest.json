@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "imported_on": "2026-10-24",
+  "timezone": "Asia/Hong_Kong",
+  "source": "Owner-provided iCloud project directory",
+  "files": [
+    {
+      "id": "C01",
+      "original_relative_path": "文字转写_散人的快速会议_503182587.pdf",
+      "repository_path": "research/raw/assistant-interview-transcript.pdf",
+      "bytes": 293386,
+      "sha256": "c7600a0bd74c05d4d6f1d429907e28159ee6a47a95e4c328bb4e865433b41f8b",
+      "transformation": "byte-for-byte copy",
+      "reused_existing_copy": false
+    },
+    {
+      "id": "C02",
+      "original_relative_path": "香港理工大学-MO service.m4a",
+      "repository_path": "research/raw/kate-interview-audio.m4a",
+      "bytes": 38998674,
+      "sha256": "35e4630b9ad1205c1afa1b991f7557485b0b16943a730a3780e2f4c96d86b86e",
+      "transformation": "byte-for-byte copy",
+      "reused_existing_copy": true
+    },
+    {
+      "id": "C03",
+      "original_relative_path": "Annual Report.pdf",
+      "repository_path": "references/client/annual-report.pdf",
+      "bytes": 3256083,
+      "sha256": "60678c625c2fc58e3d9741deb1c204d7f3f9324d22c084f4eaa6e3366a2eb483",
+      "transformation": "byte-for-byte copy",
+      "reused_existing_copy": false
+    },
+    {
+      "id": "C04",
+      "original_relative_path": "main-logo-3x.png",
+      "repository_path": "assets/brand/mo-logo.png",
+      "bytes": 64032,
+      "sha256": "2859ea619487fff85b45711eafbe1e5fe4738ee4fc773457f7d8bc073b752a03",
+      "transformation": "byte-for-byte copy",
+      "reused_existing_copy": false
+    },
+    {
+      "id": "C05",
+      "original_relative_path": "MO_GXP_ Profile & Preferences in Action_v3April.pptx",
+      "repository_path": "references/client/mo-gxp-profile-preferences-v3-april.pptx",
+      "bytes": 4967975,
+      "sha256": "4e352d490142b02f18a422cd0f2f60ec4b39212a3e3470e85c071a66bcb662f8",
+      "transformation": "byte-for-byte copy",
+      "reused_existing_copy": false
+    },
+    {
+      "id": "C06",
+      "original_relative_path": "SD5412_Advanced Service Design Methods and Tools.pdf",
+      "repository_path": "references/course/sd5412-syllabus.pdf",
+      "bytes": 179604,
+      "sha256": "6c15ce3dd3a8ef4a81113853cac6fb3efa238eb3a51dad1b13df1d84dc70be28",
+      "transformation": "byte-for-byte copy",
+      "reused_existing_copy": true
+    },
+    {
+      "id": "C07",
+      "original_relative_path": "SD5412_PROJECT_CONTEXT.md",
+      "repository_path": "records/context/2026-10-05-project-context.md",
+      "bytes": 21413,
+      "sha256": "4de2c5d5882c0224480c64edc519030ed204b3c1fc57c3790d9367123433c7d8",
+      "transformation": "byte-for-byte copy",
+      "reused_existing_copy": false
+    },
+    {
+      "id": "C08",
+      "original_relative_path": "SD5412-S01-handout.pdf",
+      "repository_path": "references/course/sd5412-s01-handout.pdf",
+      "bytes": 53676,
+      "sha256": "17ec57964007bdc9db007678bc31804ab0d31beb9028b3240dfdc66d4c1e6621",
+      "transformation": "byte-for-byte copy",
+      "reused_existing_copy": true
+    },
+    {
+      "id": "C09",
+      "original_relative_path": "SD5412-S01-slides-compressed.pdf",
+      "repository_path": "references/course/sd5412-s01-slides.pdf",
+      "bytes": 5452517,
+      "sha256": "40ad2d3788fdd234652e632603a0abbd7ef0e72919f981d2ea14d333c92afcce",
+      "transformation": "byte-for-byte copy",
+      "reused_existing_copy": true
+    },
+    {
+      "id": "C10",
+      "original_relative_path": "SD5412-S02-handout-mandarin-oriental-team-copy(1).pdf",
+      "repository_path": "references/course/sd5412-s02-mandarin-oriental-team.pdf",
+      "bytes": 115580,
+      "sha256": "95450b2d5f265e3a6f8fc14783535238c1721f2563d9f150332944db51a8a24b",
+      "transformation": "byte-for-byte copy",
+      "reused_existing_copy": true
+    },
+    {
+      "id": "C11",
+      "original_relative_path": "The Hong Kong Polytechnic University MO interview.m4a",
+      "repository_path": "research/raw/mo-interview-english.m4a",
+      "bytes": 58534426,
+      "sha256": "eb39e3504ef78ebdaf87ed766bfe1df1ff5330a06a3ebc5d36d016685af653f7",
+      "transformation": "byte-for-byte copy",
+      "reused_existing_copy": false
+    },
+    {
+      "id": "C12",
+      "original_relative_path": "yingying-li-Q9A4cNBhz9Q-unsplash.jpg",
+      "repository_path": "assets/reference/yingying-li-Q9A4cNBhz9Q-unsplash.jpg",
+      "bytes": 3415837,
+      "sha256": "2925bb4626b67bd5aa7c1076b7c261d4694b7d735e47dad072b79ff3b90c27ba",
+      "transformation": "byte-for-byte copy",
+      "reused_existing_copy": false
+    },
+    {
+      "id": "C13",
+      "original_relative_path": "mo-room-prototype/.openai/hosting.json",
+      "repository_path": "archive/import-notes/historical-hosting.json",
+      "bytes": 106,
+      "sha256": "db027ed229f3fceaffc8667ffd8e22a799681a42488fe092d7c617a53fae8607",
+      "transformation": "byte-for-byte copy",
+      "reused_existing_copy": false
+    },
+    {
+      "id": "C14",
+      "original_relative_path": "mo-room-prototype/dist/app.js",
+      "repository_path": "prototypes/mo-room-preferences/app.js",
+      "bytes": 8663,
+      "sha256": "585107275f592f527d7f4c4060dc812f1a38fc33654bbf3fbe9530ad7678c625",
+      "transformation": "byte-for-byte copy",
+      "reused_existing_copy": false
+    },
+    {
+      "id": "C15",
+      "original_relative_path": "mo-room-prototype/dist/index.html",
+      "repository_path": "prototypes/mo-room-preferences/index.html",
+      "bytes": 4348,
+      "sha256": "112845807851617d74de34ac0651e66574a25b32c3391179f3d79b0ab53bc30a",
+      "transformation": "byte-for-byte copy",
+      "reused_existing_copy": false
+    },
+    {
+      "id": "C16",
+      "original_relative_path": "mo-room-prototype/dist/style.css",
+      "repository_path": "prototypes/mo-room-preferences/style.css",
+      "bytes": 7892,
+      "sha256": "ed15bdc34b8925bbb5bd9064c7855ed551c3f2699ad6c1bf68411d4c7707a49b",
+      "transformation": "byte-for-byte copy",
+      "reused_existing_copy": false
+    }
+  ]
+}

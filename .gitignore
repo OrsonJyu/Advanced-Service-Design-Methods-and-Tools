@@ -1,0 +1,15 @@
+# Local credentials and environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Local tools, caches and work files
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+.DS_Store
+Thumbs.db
+tmp/
+.cache/

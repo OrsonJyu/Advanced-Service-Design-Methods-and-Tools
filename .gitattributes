@@ -1,0 +1,25 @@
+* text=auto eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+*.py text eol=lf
+*.txt -text
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.m4a binary
+archive/import-notes/** -text
+records/conversations/historical-dialogue.md -text
+records/context/** -text
+prototypes/mo-room-preferences/*.html -text
+prototypes/mo-room-preferences/*.js -text
+prototypes/mo-room-preferences/*.css -text
+*.pptx binary
+*.gif binary
+*.svg -text
+research/raw/** -whitespace
+records/conversations/** -whitespace
+records/context/** -whitespace
+archive/import-notes/** -whitespace
+deliverables/figma/2026-10-24/source-vectors/** -whitespace

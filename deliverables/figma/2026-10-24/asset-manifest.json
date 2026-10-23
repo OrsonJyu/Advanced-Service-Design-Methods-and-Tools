@@ -1,0 +1,5127 @@
+{
+  "schema_version": 1,
+  "archived_on": "2026-10-24",
+  "timezone": "Asia/Hong_Kong",
+  "note": "Configured export formats used; no source Figma nodes edited. Temporary signed download URLs excluded.",
+  "deduplicated_files": 200,
+  "bytes_saved": 118910078,
+  "records": [
+    {
+      "slug": "case-study-board",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2274:391",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2274-391",
+      "rawImagesTruncated": true,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/case-study-board.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 1869709
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-01.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-03.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-04.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-05.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-06.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-07.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-08.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-09.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-10.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-11.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-12.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-14.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-15.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-16.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-17.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-18.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-19.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-20.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "case-study-csm-01",
+      "name": "CSM style · 01 · The brief and our reframing · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2322:1036",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2322-1036",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-01.pdf",
+          "kind": "configured-node-export",
+          "format": "pdf",
+          "expectedBytes": 1171474
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-20.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "case-study-csm-02",
+      "name": "CSM style · 02 · Evidence, access and the voices we missed · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2322:1081",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2322-1081",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-02.pdf",
+          "kind": "configured-node-export",
+          "format": "pdf",
+          "expectedBytes": 1318422
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "case-study-csm-03",
+      "name": "CSM style · 03 · Our insight, in four lines · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2322:1123",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2322-1123",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-03.pdf",
+          "kind": "configured-node-export",
+          "format": "pdf",
+          "expectedBytes": 1274139
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "case-study-csm-04",
+      "name": "CSM style · 04 · What we chose, and what we set aside · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2322:1167",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2322-1167",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-04.pdf",
+          "kind": "configured-node-export",
+          "format": "pdf",
+          "expectedBytes": 1289099
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-04-01.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "case-study-csm-05",
+      "name": "CSM style · 05 · The service as we understood it · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2322:1190",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2322-1190",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-05.pdf",
+          "kind": "configured-node-export",
+          "format": "pdf",
+          "expectedBytes": 1065763
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "case-study-csm-06",
+      "name": "CSM style · 06 · The service we proposed · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2322:1242",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2322-1242",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-06.pdf",
+          "kind": "configured-node-export",
+          "format": "pdf",
+          "expectedBytes": 1098541
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "case-study-csm-07",
+      "name": "CSM style · 07 · Two touchpoints, one service proposition · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2322:1295",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2322-1295",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": true,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-07.pdf",
+          "kind": "configured-node-export",
+          "format": "pdf",
+          "expectedBytes": 3839336
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-08.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-10.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-07-03.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-07-04.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-11.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-18.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-07-08.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-16.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-05.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-07-11.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-03.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-01.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 2149
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-02.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 532
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-03.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 2080
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-04.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 535
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-05.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 278
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-06.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 574
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-07.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 804
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-08.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 1450
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-09.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 928
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-10.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 281
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-11.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 1161
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-12.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 2141
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-13.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 534
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-14.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 251
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-15.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 533
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-16.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 532
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-17.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 2142
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-18.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 920
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-19.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 2023
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-20.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 2096
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "case-study-csm-08",
+      "name": "CSM style · 08 · The numbers and the owner · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2322:1851",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2322-1851",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-08.pdf",
+          "kind": "configured-node-export",
+          "format": "pdf",
+          "expectedBytes": 1057119
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "case-study-csm-09",
+      "name": "CSM style · 09 · What would have proved us wrong · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2322:1903",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2322-1903",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-09.pdf",
+          "kind": "configured-node-export",
+          "format": "pdf",
+          "expectedBytes": 1267317
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "case-study-csm-10",
+      "name": "CSM style · 10 · Landing: what happens next · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2322:1936",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2322-1936",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-10.pdf",
+          "kind": "configured-node-export",
+          "format": "pdf",
+          "expectedBytes": 1199295
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "case-study-csm-11",
+      "name": "CSM style · A01 · The first wall: what we knew and assumed · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2322:1985",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2322-1985",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-11.pdf",
+          "kind": "configured-node-export",
+          "format": "pdf",
+          "expectedBytes": 792434
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-20.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-11-02.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "case-study-csm-12",
+      "name": "CSM style · A02 · Research evidence and its limits · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2322:2005",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2322-2005",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-12.pdf",
+          "kind": "configured-node-export",
+          "format": "pdf",
+          "expectedBytes": 1119650
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "case-study-csm-13",
+      "name": "CSM style · A03 · How the research changed our scope · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2322:2070",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2322-2070",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-13.pdf",
+          "kind": "configured-node-export",
+          "format": "pdf",
+          "expectedBytes": 1262332
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "case-study-csm-14",
+      "name": "CSM style · A04 · App audit and early room explorations · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2322:2111",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2322-2111",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-14.pdf",
+          "kind": "configured-node-export",
+          "format": "pdf",
+          "expectedBytes": 1772043
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-14-01.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-15.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-14-03.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-07.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-14.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-06.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "case-study-csm-15",
+      "name": "CSM style · A05 · From a stakeholder wall to an information map · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2322:2133",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2322-2133",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-15.pdf",
+          "kind": "configured-node-export",
+          "format": "pdf",
+          "expectedBytes": 906782
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-15-01.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-15-02.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-15-03.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "case-study-csm-16",
+      "name": "CSM style · A06 · The blueprint as a working artefact · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2322:2153",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2322-2153",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-16.pdf",
+          "kind": "configured-node-export",
+          "format": "pdf",
+          "expectedBytes": 1215858
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-16-01.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-16-02.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-19.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "case-study-csm-17",
+      "name": "CSM style · A07 · Storyboard and the limits of simulation · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2322:2173",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2322-2173",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-17.pdf",
+          "kind": "configured-node-export",
+          "format": "pdf",
+          "expectedBytes": 1406927
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-01.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-17-02.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "case-study-csm-18",
+      "name": "CSM style · A08 · The assistant prototype evolved through several forms · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2322:2219",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2322-2219",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": true,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-18.pdf",
+          "kind": "configured-node-export",
+          "format": "pdf",
+          "expectedBytes": 3020896
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-04-01.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-04.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-08.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-18-05.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-18.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-17.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-16.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-01.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 340
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-02.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 924
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-03.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 2141
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-04.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 540
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-05.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 991
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-06.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 775
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-07.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 532
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-08.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 281
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-10.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 281
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-10.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 2150
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-11.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 248
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-12.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 251
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-13.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 539
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-14.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 394
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-15.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 533
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-16.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 232
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-05.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 278
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-18.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 535
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-19.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 537
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-20.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 281
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "case-study-csm-19",
+      "name": "CSM style · A09 · The Dream Maker workflow became more explicit · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2322:2570",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2322-2570",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": true,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-19.pdf",
+          "kind": "configured-node-export",
+          "format": "pdf",
+          "expectedBytes": 2581332
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-01.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 924
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-02.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 698
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-03.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 1139
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-04.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 926
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-05.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 1149
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-08.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 1450
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-07.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 1492
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-07.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 804
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-06.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 574
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-10.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 794
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-11.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 1232
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-12.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 1092
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-13.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 1065
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-14.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 750
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-09.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 928
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-16.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 12691
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-17.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 574
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-18.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 12674
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-19.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 12646
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-20.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 970
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "case-study-csm-20",
+      "name": "CSM style · A10 · Criteria, source coverage and archive gaps · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2322:2887",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2322-2887",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-20.pdf",
+          "kind": "configured-node-export",
+          "format": "pdf",
+          "expectedBytes": 1398999
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "case-study-original-01",
+      "name": "01 · The brief and our reframing · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2282:391",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2282-391",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-20.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-original-01-02.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "unavailable: original A3 frame is hidden; Figma returned export=null"
+    },
+    {
+      "slug": "case-study-original-02",
+      "name": "02 · Evidence, access and the voices we missed · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2282:392",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2282-392",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [],
+      "render_status": "unavailable: original A3 frame is hidden; Figma returned export=null"
+    },
+    {
+      "slug": "case-study-original-03",
+      "name": "03 · Our insight, in four lines · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2282:393",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2282-393",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [],
+      "render_status": "unavailable: original A3 frame is hidden; Figma returned export=null"
+    },
+    {
+      "slug": "case-study-original-04",
+      "name": "04 · What we chose, and what we set aside · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2282:394",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2282-394",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-04-01.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "unavailable: original A3 frame is hidden; Figma returned export=null"
+    },
+    {
+      "slug": "case-study-original-05",
+      "name": "05 · The service as we understood it · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2282:395",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2282-395",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [],
+      "render_status": "unavailable: original A3 frame is hidden; Figma returned export=null"
+    },
+    {
+      "slug": "case-study-original-06",
+      "name": "06 · The service we proposed · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2282:396",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2282-396",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [],
+      "render_status": "unavailable: original A3 frame is hidden; Figma returned export=null"
+    },
+    {
+      "slug": "case-study-original-07",
+      "name": "07 · Two touchpoints, one service proposition · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2282:397",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2282-397",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": true,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-16.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-03.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-05.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-07-03.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-07-08.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-10.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-18.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-11.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-07-04.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-08.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-07-11.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-01.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 2135
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-14.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 251
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-03.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 284
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-04.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 536
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-05.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 2134
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-06.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 533
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-07.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 12694
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-08.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 536
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-09.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 528
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-10.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 281
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-11.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 278
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-12.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 796
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-13.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 278
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-14.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 928
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-15.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 2110
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-16.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 281
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-17.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 1157
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-18.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 248
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-19.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 964
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-20.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 2074
+        }
+      ],
+      "render_status": "unavailable: original A3 frame is hidden; Figma returned export=null"
+    },
+    {
+      "slug": "case-study-original-08",
+      "name": "08 · The numbers and the owner · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2282:398",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2282-398",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [],
+      "render_status": "unavailable: original A3 frame is hidden; Figma returned export=null"
+    },
+    {
+      "slug": "case-study-original-09",
+      "name": "09 · What would have proved us wrong · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2282:399",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2282-399",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [],
+      "render_status": "unavailable: original A3 frame is hidden; Figma returned export=null"
+    },
+    {
+      "slug": "case-study-original-10",
+      "name": "10 · Landing: what happens next · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2282:400",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2282-400",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [],
+      "render_status": "unavailable: original A3 frame is hidden; Figma returned export=null"
+    },
+    {
+      "slug": "case-study-original-11",
+      "name": "A01 · The first wall: what we knew and assumed · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2282:401",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2282-401",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-20.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-09.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-original-01-02.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-11-02.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        }
+      ],
+      "render_status": "unavailable: original A3 frame is hidden; Figma returned export=null"
+    },
+    {
+      "slug": "case-study-original-12",
+      "name": "A02 · Research evidence and its limits · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2282:402",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2282-402",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [],
+      "render_status": "unavailable: original A3 frame is hidden; Figma returned export=null"
+    },
+    {
+      "slug": "case-study-original-13",
+      "name": "A03 · How the research changed our scope · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2282:403",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2282-403",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [],
+      "render_status": "unavailable: original A3 frame is hidden; Figma returned export=null"
+    },
+    {
+      "slug": "case-study-original-14",
+      "name": "A04 · App audit and early room explorations · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2282:404",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2282-404",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-14-01.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-15.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-06.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-14-03.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-07.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-14.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "unavailable: original A3 frame is hidden; Figma returned export=null"
+    },
+    {
+      "slug": "case-study-original-15",
+      "name": "A05 · From a stakeholder wall to an information map · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2282:405",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2282-405",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-original-15-01.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-15-01.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-15-02.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-15-03.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        }
+      ],
+      "render_status": "unavailable: original A3 frame is hidden; Figma returned export=null"
+    },
+    {
+      "slug": "case-study-original-16",
+      "name": "A06 · The blueprint as a working artefact · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2282:406",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2282-406",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-12.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-16-01.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-16-02.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-19.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "unavailable: original A3 frame is hidden; Figma returned export=null"
+    },
+    {
+      "slug": "case-study-original-17",
+      "name": "A07 · Storyboard and the limits of simulation · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2282:407",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2282-407",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-01.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-17-02.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        }
+      ],
+      "render_status": "unavailable: original A3 frame is hidden; Figma returned export=null"
+    },
+    {
+      "slug": "case-study-original-18",
+      "name": "A08 · The assistant prototype evolved through several forms · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2282:408",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2282-408",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": true,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-08.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-04-01.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-16.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-18-05.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-04.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-01.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 340
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-02.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 924
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-18-03.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 541
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-18-04.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 2057
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-02.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 532
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-03.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 2080
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-04.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 535
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-18-08.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 534
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-09.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 528
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-10.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 281
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-18-11.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 537
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-11.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 278
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-18-13.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 993
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-18-14.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 536
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-04.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 536
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-18-16.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 542
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-18-17.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 2151
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-18-18.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 774
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-18-19.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 2121
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-15.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 2110
+        }
+      ],
+      "render_status": "unavailable: original A3 frame is hidden; Figma returned export=null"
+    },
+    {
+      "slug": "case-study-original-19",
+      "name": "A09 · The Dream Maker workflow became more explicit · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2282:409",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2282-409",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": true,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-19-01.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 12711
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-19-02.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 1192
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-19-03.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 801
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-19-04.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 12674
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-19-05.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 12646
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-02.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 698
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-19-07.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 1500
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-08.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 1450
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-06.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 574
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-09.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 928
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-19-11.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 1135
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-11.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 1232
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-13.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 1065
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-19-14.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 1155
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-12.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 1092
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-19-16.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 698
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-17.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 574
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-19-18.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 969
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-19-19.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 929
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-01.svg",
+          "kind": "vector-svg",
+          "format": "svg",
+          "expectedBytes": 924
+        }
+      ],
+      "render_status": "unavailable: original A3 frame is hidden; Figma returned export=null"
+    },
+    {
+      "slug": "case-study-original-20",
+      "name": "A10 · Criteria, source coverage and archive gaps · A3",
+      "kind": "case-study-page",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "2282:410",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=2282-410",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [],
+      "render_status": "unavailable: original A3 frame is hidden; Figma returned export=null"
+    },
+    {
+      "slug": "final-presentation-board",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "1132:734",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=1132-734",
+      "rawImagesTruncated": true,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/final-presentation-board.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 2089243
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-01.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-03.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-04.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-05.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-06.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-07.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-08.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-09.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-10.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-11.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-12.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-13.gif",
+          "kind": "original-image",
+          "format": "gif"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-14.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-15.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-16.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-17.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-18.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-19.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-20.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "mo-app-prototype-board",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "1543:395",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=1543-395",
+      "rawImagesTruncated": true,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/mo-app-prototype-board.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 3185354
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-04.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-18-05.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-03.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-04.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-03.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/case-study-board-11.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-07.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-08.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-09.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-10.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-11.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-12.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-14.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-15.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-16.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-17.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-18.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-19.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-20.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "mo-dream-maker-board",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "1679:8074",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=1679-8074",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/mo-dream-maker-board.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 1983300
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/mo-dream-maker-board-01.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/mo-dream-maker-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/mo-dream-maker-board-03.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/mo-dream-maker-board-04.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/mo-dream-maker-board-05.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/mo-dream-maker-board-06.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "pre-slides-make-board",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "913:2",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=913-2",
+      "rawImagesTruncated": true,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/pre-slides-make-board.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 703000
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-01.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-03.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-04.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-05.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-11.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-07.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-08.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-09.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-10.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-01.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-07.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-14.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-05.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-16.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-17.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-08.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-15.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-20.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-board",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "0:1",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=0-1",
+      "rawImagesTruncated": true,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-board.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 1928819
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-08.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-19.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-07.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-12.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-14.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-03.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-06.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-05.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-09.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-11.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/presentation-board-12.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/presentation-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-14.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-10.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-09.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/presentation-board-17.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-15.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-08.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-01.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-01",
+      "name": "1",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "14:41",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=14-41",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-01.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 1489370
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-05.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-01.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-03.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-09.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-02",
+      "name": "2",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "14:95",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=14-95",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-02.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 601770
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/presentation-board-12.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-02-04.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-03",
+      "name": "3",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "14:118",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=14-118",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-03.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 511243
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-08.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-10.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-09.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-16.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-07.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-03-08.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-04",
+      "name": "4",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "14:141",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=14-141",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-04.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 131718
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-05",
+      "name": "5",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "14:231",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=14-231",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-05.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 140781
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-06",
+      "name": "6",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "14:272",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=14-272",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-06.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 88567
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-07",
+      "name": "7",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "14:305",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=14-305",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-07.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 307856
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-11.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-12.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-08",
+      "name": "8",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "14:369",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=14-369",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-08.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 103898
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-09",
+      "name": "9",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "14:417",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=14-417",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-09.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 554594
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-03.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-14.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-10",
+      "name": "10",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "14:482",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=14-482",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-10.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 466768
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-14.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-08.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-15.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-11",
+      "name": "11",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "14:501",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=14-501",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-11.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 1441510
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-18.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-17.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-12",
+      "name": "12",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "14:544",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=14-544",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-12.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 368629
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-18.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-17.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-13",
+      "name": "13",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "14:596",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=14-596",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-13.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 189254
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-14",
+      "name": "14",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "43:89",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=43-89",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-14.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 166394
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-15",
+      "name": "15",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "14:809",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=14-809",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-15.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 279921
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-16",
+      "name": "16",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "14:936",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=14-936",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-16.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 211894
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-17",
+      "name": "17",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "14:1083",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=14-1083",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-17.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 264046
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-18",
+      "name": "18",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "14:1109",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=14-1109",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-18.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 96161
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-19",
+      "name": "19",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "14:1128",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=14-1128",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-19.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 113100
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-20",
+      "name": "20",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "14:1190",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=14-1190",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-20.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 117501
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-21",
+      "name": "21",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "14:1251",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=14-1251",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-21.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 179718
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-22",
+      "name": "22",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "14:1311",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=14-1311",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-22.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 183961
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-23",
+      "name": "23",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "14:1342",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=14-1342",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-23.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 161938
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-24",
+      "name": "24",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "14:1346",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=14-1346",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-24.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 1525904
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-24-01.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-24-03.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-24-05.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-25",
+      "name": "25",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "43:21510",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=43-21510",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-25.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 146473
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-26",
+      "name": "26",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "111:21541",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=111-21541",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-26.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 540418
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/presentation-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-19.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-27",
+      "name": "27",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "111:21551",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=111-21551",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-27.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 59830
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-28",
+      "name": "28",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "111:21588",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=111-21588",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-28.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 128845
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-29",
+      "name": "29",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "111:21598",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=111-21598",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-29.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 71430
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-30",
+      "name": "30",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "111:21616",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=111-21616",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-30.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 95603
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-31",
+      "name": "31",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "111:21699",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=111-21699",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-31.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 142190
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-32",
+      "name": "32",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "145:2",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=145-2",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-32.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 699390
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-32-03.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-32-04.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-32-05.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-32-06.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-32-07.gif",
+          "kind": "original-image",
+          "format": "gif"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-33",
+      "name": "33",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "118:28",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=118-28",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-33.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 677926
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-20.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-06.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-33-03.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-33-04.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-33-05.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/presentation-board-17.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-33-07.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-04.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-33-09.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-33-10.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-34",
+      "name": "34",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "14:12178",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=14-12178",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-34.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 160926
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-35",
+      "name": "35",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "14:12204",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=14-12204",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-35.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 125510
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "presentation-slide-36",
+      "name": "36",
+      "kind": "presentation-slide",
+      "fileKey": "mmSZ6q6mDoVdPXCpLub6OO",
+      "nodeId": "115:27",
+      "sourceUrl": "https://www.figma.com/slides/mmSZ6q6mDoVdPXCpLub6OO?node-id=115-27",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-36.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 1485389
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-05.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-09.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-03.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-01.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "research-board",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "0:1",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=0-1",
+      "rawImagesTruncated": true,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/research-board.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 1251453
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/research-board-01.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/research-board-02.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/research-board-03.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/research-board-04.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/research-board-05.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/research-board-06.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/research-board-07.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/research-board-08.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/research-board-09.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/research-board-10.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/research-board-11.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/research-board-12.jpeg",
+          "kind": "original-image",
+          "format": "jpeg"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/research-board-13.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/research-board-14.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/research-board-15.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/research-board-16.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/research-board-17.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/research-board-18.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/research-board-19.png",
+          "kind": "original-image",
+          "format": "png"
+        },
+        {
+          "path": "deliverables/figma/2026-10-24/source-images/research-board-20.png",
+          "kind": "original-image",
+          "format": "png"
+        }
+      ],
+      "render_status": "archived"
+    },
+    {
+      "slug": "research-interview-guide",
+      "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+      "nodeId": "59:25",
+      "sourceUrl": "https://www.figma.com/design/a5Mf39eUB7M9nGiT0P9lj3?node-id=59-25",
+      "rawImagesTruncated": false,
+      "svgAssetsTruncated": false,
+      "files": [
+        {
+          "path": "deliverables/figma/2026-10-24/visuals/research-interview-guide.png",
+          "kind": "configured-node-export",
+          "format": "png",
+          "expectedBytes": 686792
+        }
+      ],
+      "render_status": "archived"
+    }
+  ],
+  "files": [
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/case-study-board.png",
+      "bytes": 1869709,
+      "sha256": "afd16ebe6707a5ad7aab360d6c2cd9e5cad12fb64c29195c7dd990344458e111"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-01.pdf",
+      "bytes": 1171474,
+      "sha256": "1d8ecffd4569c3a8324c331836f378c4c003c5f4424f65636653f6fba0c686e3"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-02.pdf",
+      "bytes": 1318422,
+      "sha256": "9fd4aea09a2b1e1fc66a49427b6a6a278c748cd938f61fbdbac762237b3b8913"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-03.pdf",
+      "bytes": 1274139,
+      "sha256": "47ce8ae3b6e01dbfb56a1b44eec634c3f23ae13a5cc91851cc6ced175ba08308"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-04.pdf",
+      "bytes": 1289099,
+      "sha256": "f08e3f14842cd4c199be1433cfb20c1919cc32b03f07ab95e48c89a4e4417099"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-05.pdf",
+      "bytes": 1065763,
+      "sha256": "5c88d00b26ee19488a17d0fbdc0498f045656d54095c096b82041243a3eab3b0"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-06.pdf",
+      "bytes": 1098541,
+      "sha256": "066802050291e9aaa1fce7a060513176267102d677554ca4ea8dc9bc2d7885c9"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-07.pdf",
+      "bytes": 3839336,
+      "sha256": "7711e34ee7774df31ecfb6dc03c9dace9dd36afc3b43945e95f5598188074b64"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-08.pdf",
+      "bytes": 1057119,
+      "sha256": "61317b221a858b0dfdcd8495e26efd61c3e6f846756c515fb4e9b20931c4736b"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-09.pdf",
+      "bytes": 1267317,
+      "sha256": "ae6398dd00378f10c822cda98046c2eeff0e54aaecf891e8bbeb7e5d3476b86f"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-10.pdf",
+      "bytes": 1199295,
+      "sha256": "cfbc9d535d99333f6d0f6b66aecd29936c21ab672eaf927df57f78ed279b4c2f"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-11.pdf",
+      "bytes": 792434,
+      "sha256": "27d80f878d056884cf448b327d5f95c675a81ca02f13f450cedc0cd5ad23c176"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-12.pdf",
+      "bytes": 1119650,
+      "sha256": "1000b2657ec4610a5ebfed9a23ee881f66a83a359114cdcb55493eee8ec7ff41"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-13.pdf",
+      "bytes": 1262332,
+      "sha256": "393db87bea34cfe24a0e3e5db2b0d833307c22235f3c62b88f803d6f46b72dad"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-14.pdf",
+      "bytes": 1772043,
+      "sha256": "c1cd971c36e19e5a3f84482e70f149f54a4a59eb4d2b4e79b78ed972894b9b55"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-15.pdf",
+      "bytes": 906782,
+      "sha256": "f9a6c95da49eaab57cda656349dd5d08668e0eafc3ed80d65e5eb23b8db2d331"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-16.pdf",
+      "bytes": 1215858,
+      "sha256": "f97276ada09acaa16a5ca9083b38bc382d4f31e253017a9c280cd133af1d59f0"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-17.pdf",
+      "bytes": 1406927,
+      "sha256": "c8e65447b1a9f87e4f4fc7ae6d2109c12ac3988818712df2676712fa7e8c46e2"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-18.pdf",
+      "bytes": 3020896,
+      "sha256": "e18f8e14dd73aba2f13f05f4f22cde030e5f2e2771fb6597b34036b0d611e1f1"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-19.pdf",
+      "bytes": 2581332,
+      "sha256": "f5d8c2eb24f7db4a1e05541e8a0cc20ea52f5de4c8884c228261dcd29766179e"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/case-study-csm-20.pdf",
+      "bytes": 1398999,
+      "sha256": "d40d8d25e28e1ddb414c1ffb096f0ae48d000b6ec8d705f8259f5e1a9b1dd3c8"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/final-presentation-board.png",
+      "bytes": 2089243,
+      "sha256": "d99720b714b85b7e59f8828e49fa8caf45f99e80a10b778d6e106c0cb13efa69"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/mo-app-prototype-board.png",
+      "bytes": 3185354,
+      "sha256": "78dfccc4a85fcde45b691564fa537f41754df321e7c12d1f2425ca764b3b37a6"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/mo-dream-maker-board.png",
+      "bytes": 1983300,
+      "sha256": "416fbc5ea53f94279b5e894f8337fea26ed46dc75d0a815058d5d948c391ebab"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/pre-slides-make-board.png",
+      "bytes": 703000,
+      "sha256": "4f82344e3b2c7c5cc0f9e05bb1704a2013f16cc53906de5c9b2fe754e54eb130"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-board.png",
+      "bytes": 1928819,
+      "sha256": "ead685b1b60ab6932a80c5d11beb0960f2af4780f432824649bb6bce3669ff99"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-01.png",
+      "bytes": 1489370,
+      "sha256": "6eeb35d2568a601ce25dcae7be0fb5532351a25a0ae6e0d58f0ed2e1e9692d06"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-02.png",
+      "bytes": 601770,
+      "sha256": "2831e5c63436f285d455267f6103d6b9c2c2beba13ee57a2b64939ec570714cb"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-03.png",
+      "bytes": 511243,
+      "sha256": "cc957041849d5528575724286b39cc31a55f07da9112feaa9951cf4e5248ce55"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-04.png",
+      "bytes": 131718,
+      "sha256": "28efb4291690c06a98d0cd49d7561915d8ef67b016157b9d5ddbc809c5604516"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-05.png",
+      "bytes": 140781,
+      "sha256": "276b6513be302828fe3db1c0635e317dd66604e23ffa508f0671cfc4ab6b20ab"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-06.png",
+      "bytes": 88567,
+      "sha256": "09ed38cfb04b156c8157d24abef77a72b6a483d668b89bab67d8b77469819524"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-07.png",
+      "bytes": 307856,
+      "sha256": "15435d1cd4ef97203cdbed7625aaba450c782823b2cacb3a477ed151e444e905"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-08.png",
+      "bytes": 103898,
+      "sha256": "fd350e174b7f03ae7946fd38d21fe58126cccc74527d3e2dd4635abf0100df23"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-09.png",
+      "bytes": 554594,
+      "sha256": "9012c4b8a05e268fb5bca578e9c7d3ab7a731cca5c8675bd7b00fe592538dd70"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-10.png",
+      "bytes": 466768,
+      "sha256": "14600c1cd55964b3a8ff291fdabcabeb58b2a769eef321bf56c833b7e67baf95"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-11.png",
+      "bytes": 1441510,
+      "sha256": "b568fbba601e843c43dbbd01170fff86386400630aee016955e58b52c7b9fcd1"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-12.png",
+      "bytes": 368629,
+      "sha256": "7b54c036b59667a3f79c9c8fcef427518447f0cf66b83c48e207b1df5f48137b"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-13.png",
+      "bytes": 189254,
+      "sha256": "ba1cdf1053ad2006726e23263a2c72fce97d588fc6719cac4a82780b5f131f0e"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-14.png",
+      "bytes": 166394,
+      "sha256": "aa787eb994726cdf513ce10ecf358b66c02013cfdee7a2f2355dc419b04e57cf"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-15.png",
+      "bytes": 279921,
+      "sha256": "9291a6109f39dce0e09834d80c8dd1b9bcfa4b4a4befbf31aafc3036f48f8241"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-16.png",
+      "bytes": 211894,
+      "sha256": "e0aed2af921559ee3eb13a5942f65222517a639aa4f6e79d84f80f3b728daa37"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-17.png",
+      "bytes": 264046,
+      "sha256": "a8be97f91eb9b1fe08f10d4a4d296cea32d80bfaa249742cb0fb1c4270946725"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-18.png",
+      "bytes": 96161,
+      "sha256": "b1b821ca5e5d18d84bb38b6d2b1b35670fd4ba6beb62624b56578a49ad0216c9"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-19.png",
+      "bytes": 113100,
+      "sha256": "f955143f61c00f2723c0a48e8336b3441956f039108ee5c9a4e724f1897f4ad2"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-20.png",
+      "bytes": 117501,
+      "sha256": "e3a8a0b4207696137457a9aa0e04b03042bb08a2f986922a9c442e61a2eaa70c"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-21.png",
+      "bytes": 179718,
+      "sha256": "8c00d18c79841364f6534c75beec0b6eafa64ccb0c7691342cdab2c4866ef933"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-22.png",
+      "bytes": 183961,
+      "sha256": "d1fae7f47b88fd3c86d94310adf690ac234262fe48e09fc81c60a6a649002140"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-23.png",
+      "bytes": 161938,
+      "sha256": "990471f448525ec12e0b60c028c27b71ee8cfe71bc1739123bdf6ed7b3a497ca"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-24.png",
+      "bytes": 1525904,
+      "sha256": "892aa34a7606cb19d50db99d10f2fb5671172ad5d44509591f9e6293bf9c6dbc"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-25.png",
+      "bytes": 146473,
+      "sha256": "a6f4a73f20fb96416460463a5c24340fd6ac1bb245c5ddeaec353e0891e904c6"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-26.png",
+      "bytes": 540418,
+      "sha256": "9ab8fb8536f7e79de73d80f410663c0eac8abefaf1384b34d17bbd63b3250452"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-27.png",
+      "bytes": 59830,
+      "sha256": "b6a10900be66d1f38270f107b65d9f5496d4123de60651f482f2f0d9f21e024f"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-28.png",
+      "bytes": 128845,
+      "sha256": "82dc15adaafd2cd2e36f93a37ec84231e11d9a4f26dceec75934a497d31f5155"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-29.png",
+      "bytes": 71430,
+      "sha256": "b8a3e4267529ef3ae57ed335371b1e2e6a059ff16b20fe3e1dd9bddb9f2fa91d"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-30.png",
+      "bytes": 95603,
+      "sha256": "780a2420c1d3f9431258c51413ac87037601d173908be3263ddce0b3aebb69bc"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-31.png",
+      "bytes": 142190,
+      "sha256": "3f4a837dffbfb6bce1f9b4c26ace85008d572667211ad551e993f29c19588956"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-32.png",
+      "bytes": 699390,
+      "sha256": "600fe4314c29d203750397e6bc1b1aa61a6dfbb87adbb4db5080ae329fa0520d"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-33.png",
+      "bytes": 677926,
+      "sha256": "12e0ae5708f28074b7ede1ca9a4f4577d7d60db67dd8fb11fb0abe49d70154c3"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-34.png",
+      "bytes": 160926,
+      "sha256": "ed233fab9b1a8c79c0ef60d4dbc04801e02f6decdbe1eb13644d52be5e71393f"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-35.png",
+      "bytes": 125510,
+      "sha256": "0f67cb491a299822ebe58498b42328f1a735310f78b8e7a033db37b5d16b4e9f"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/presentation-slide-36.png",
+      "bytes": 1485389,
+      "sha256": "06e586971fcb1f28e194761ad8fefb13b9228eeb359f9ba15c60d4b92f7e5c95"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/research-board.png",
+      "bytes": 1251453,
+      "sha256": "2a124ad646f78ac1bd07f49127c46a1a552a12231494e099d350c1646c2efb96"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/visuals/research-interview-guide.png",
+      "bytes": 686792,
+      "sha256": "b0fcbb098e1cec290add6c4b854ec3b545c92f6fda2f4ecba6cdc35f26a8e200"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-board-01.jpeg",
+      "bytes": 286122,
+      "sha256": "482ecc5565e9a972c729423f910c407c3cc478257948f04fa2f56296cd646c6c"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-board-02.png",
+      "bytes": 1687504,
+      "sha256": "54aa173167486f05d7cf72239042e81c011fd6423aec4e7c34e175a746a45770"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-board-03.png",
+      "bytes": 1837901,
+      "sha256": "cadc7860d52e102a3c13798c7643953d7cbed77a33c98b866360c5798e515f55"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-board-04.jpeg",
+      "bytes": 132971,
+      "sha256": "fb5f58b4afe2d17a4cf44dbecfcb097e55a5096420220c9084eddb39523fa7a4"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-board-05.png",
+      "bytes": 2178427,
+      "sha256": "584465b9415d5248afa5a8d8e1dd05adeb1ae76bf3da1b1f9c72a016e685f2a7"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-board-06.png",
+      "bytes": 25059,
+      "sha256": "a7eb624ff7248bf120d130bf37979a0937982698f298f7cb182835f27e262526"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-board-07.png",
+      "bytes": 310313,
+      "sha256": "692f9b9a24016c9120e7c0845a94d417eac69abcd84f3d0a876742bb2639ce4a"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-board-08.png",
+      "bytes": 75299,
+      "sha256": "ff089787104ed5588abf75170ea87c5dad5b591cf272a27f6c1aff731aa67977"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-board-09.png",
+      "bytes": 96698,
+      "sha256": "e12fcfff29b8a59913657dae822b04c6a9953ad64dc37d50843476abf6974e16"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-board-10.jpeg",
+      "bytes": 33011,
+      "sha256": "ce8d92dff3165db55e7a68c9a68d7f439626b15a228d9f5098a51aa0d2afc29f"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-board-11.png",
+      "bytes": 1968305,
+      "sha256": "4ebf7fcab907b13de75f90e6d8c908a98f7e2ae97e84018ffab5c8d82d1f27d2"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-board-12.png",
+      "bytes": 159644,
+      "sha256": "506bd34992bf581fc827da87cfc56dcc1e1a9f0fcfa9b73a41186c228e3af4fc"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-board-13.png",
+      "bytes": 10523,
+      "sha256": "8cbbace756c983061380358a169757757ec4a3c5a79ab1a31cd64b149e1530f1"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-board-14.png",
+      "bytes": 434291,
+      "sha256": "2906a7a91db497bd1825a86c5ac6361615f97a263364f88595ad236e23226468"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-board-15.png",
+      "bytes": 17789,
+      "sha256": "6311273c2ee08c91b191ab22125c40234ac3689f02cfa80764699ea69e461cae"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-board-16.png",
+      "bytes": 14337,
+      "sha256": "f0a68ddc450a0c1c445aa9a527f7ba627ecc814f6902a4f522f1479a74d6dff3"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-board-17.png",
+      "bytes": 1910931,
+      "sha256": "e34aece4338421fe276bc6220e0948a2095c5b7a90e210122860f3b58977616d"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-board-18.png",
+      "bytes": 2126927,
+      "sha256": "d8d80437b077cb4b9bdcec6d508bb6324ffa878e6db15269309e872c7dad0e34"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-board-19.png",
+      "bytes": 60368,
+      "sha256": "c6e9b94fac164bc4bb437dcbe309402e00ea8e9e10007a8eff89a3ab0644c849"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-board-20.jpeg",
+      "bytes": 30040,
+      "sha256": "81f867e2fa4a9cf374202490eaff163909724880e00e0bbf434f2c58bc3d7aa7"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-04-01.png",
+      "bytes": 59839,
+      "sha256": "ad13f26d95df87230c4947e9b877b5f5af2a74831a2d7b2f37bef415febb2fd5"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-07-03.png",
+      "bytes": 2037017,
+      "sha256": "b4f3f21e22d9973448b339f10b299191e2a10c532f0469bd19cedff02a3a5617"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-07-04.png",
+      "bytes": 1898378,
+      "sha256": "47d6076b3d9b2692216afa3e7cc47f25172307d8eee62a11dbd4cc2d937b7cae"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-07-08.png",
+      "bytes": 155390,
+      "sha256": "5b613a9cd4c5b1bb2ea94d9e64c868036f00745281271aa72f6e61d5d0afb3d6"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-07-11.png",
+      "bytes": 1844316,
+      "sha256": "ac3d363d26944f9646ba523d6a6818bd68761cd804956b7421b7ba1cb5ddf0a7"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-11-02.jpeg",
+      "bytes": 23285,
+      "sha256": "8b7fdcc9584b3bedbd8e4bf5a116978db025a3f82379ca9334adbf8f41380cd5"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-14-01.png",
+      "bytes": 812837,
+      "sha256": "a99787824964b2f5ec47ffe0cf85d0776d4bd475dc11389bf871cca1c18edb96"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-14-03.png",
+      "bytes": 38873,
+      "sha256": "4431d06210784acc72617f6279f9755243b784f436b0af3f08cb2a275daaf5cf"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-15-01.jpeg",
+      "bytes": 34390,
+      "sha256": "34a7e878ddbacde19ac6756444c4619c3464d82c384497bd4afabeff4cd902e1"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-15-02.jpeg",
+      "bytes": 112197,
+      "sha256": "e79b85cb36e62913e2bea498cd11eae140c01bd75cff9bc4601bf5aa11c06072"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-15-03.jpeg",
+      "bytes": 44426,
+      "sha256": "39e1ef0e5095bd68813830819a4a9cf085bde41e25af09986e6499fa3a547ddc"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-16-01.jpeg",
+      "bytes": 31786,
+      "sha256": "398416c1e2903373c5acd56175d29b10dbcd39f3e4936d976d7d9ad8b2e835ef"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-16-02.png",
+      "bytes": 340784,
+      "sha256": "b53be913cedc4b68c7c480f1bde62ed3001d9bd8197f3631babd38583ef75261"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-17-02.jpeg",
+      "bytes": 137559,
+      "sha256": "e5e6f086b98032cc6affbbc169ed21a1c188e3321bfc48694b03687167fd596d"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-csm-18-05.png",
+      "bytes": 353480,
+      "sha256": "08a5732293e811b3e0abba4d9e2e51be240a47cdfab38788f34a0f27bdd22b0f"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-original-01-02.png",
+      "bytes": 133696,
+      "sha256": "133f509a8a0902e74ef34f37a0e9b048e0c0bdab95d0a340ffb0b1f45f2c46e3"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/case-study-original-15-01.png",
+      "bytes": 151912,
+      "sha256": "9d7843f331fd51002734e43247f1d523bc31d8b3cf853994adab4ea994813fb4"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-01.png",
+      "bytes": 138126,
+      "sha256": "5db4d8500a87a9520a69c02eceb6c12a1ba37980974f84a4e746c4cce35e719f"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-02.png",
+      "bytes": 29374,
+      "sha256": "d6309269fa1536b53e6195d3d601e1de02ccc6dd4fcc2b8c1c1c6283ebfe6a04"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-03.jpeg",
+      "bytes": 274047,
+      "sha256": "d95a17df700c327d48ecf17ea05693c816dc8bcbdde967c7548e15ea7d5fdc80"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-04.png",
+      "bytes": 97951,
+      "sha256": "e707be04fd0ca41390389f32857a09c066ff702b5f15a3aa5cc455e2b340e8f5"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-05.jpeg",
+      "bytes": 9569063,
+      "sha256": "ff3d9e26c0f9cb225a502f35d3287997ebd15251e163e86808a27131a38f45d8"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-06.png",
+      "bytes": 209517,
+      "sha256": "1ad3e61228aa1596ef12269a2269b0070567a9cdf02e22e294dbf1eafbaa549d"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-07.png",
+      "bytes": 99112,
+      "sha256": "8aeefc3c1ba49438d91b08c2b8a57ba8dee27791e7a68d00b873e1873ddc8eb8"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-08.jpeg",
+      "bytes": 456522,
+      "sha256": "365e3f36102aa855b3b9c3e4c456e1194fb80932fd7fb4424e7172b923aa50b8"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-09.png",
+      "bytes": 23843,
+      "sha256": "0f6ebd479d70d2546950ac20c2eb01736e069d88b1ec71decd7871f0a23a05f7"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-10.png",
+      "bytes": 885910,
+      "sha256": "f50481228d0ff1e6b5dedf8009b80a5314a2f4db46727056fb896770b8abc292"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-11.png",
+      "bytes": 1113919,
+      "sha256": "04a928ff3af9e1fbd1450b0159196dee70738ab73b527edcb49b5bb2ecd577bd"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-12.png",
+      "bytes": 89131,
+      "sha256": "34c9cf07ef509a436b97b628b8656d13f15b7da1374188d8629b57b07b078e5e"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-13.gif",
+      "bytes": 42488192,
+      "sha256": "d6262ae7754174147468065c1c28452c9a3e1c90924cd5f962b7e42ef6164ac9"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-14.jpeg",
+      "bytes": 248332,
+      "sha256": "11558f350f54542ccd9edce0f77b14d06730e2376511992e392f001ae969d5d8"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-15.jpeg",
+      "bytes": 150588,
+      "sha256": "94b905f53d546a5b4e302fdd1aac75782e8cf2260cdc87b9278728797ea70d8f"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-16.png",
+      "bytes": 997645,
+      "sha256": "588c5c41f087baf6b1a3abb1095405341d503ac3b19cc25bd20a4c82869f14fb"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-17.png",
+      "bytes": 249720,
+      "sha256": "03f4cbb4761ac2aa2e3f1be37c193a4ee85a207bd58935d47e92666f354db8ea"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-18.png",
+      "bytes": 2941285,
+      "sha256": "fed4845db64f763f1f6ffe7bc6af0b1aa6f1406aba9c8bc139f9da9f4cf0f1c5"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-19.png",
+      "bytes": 154401,
+      "sha256": "f2190379bb5563219ed79c652c266a3730b07876b6bdf7880aa8eebfbfac0509"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/final-presentation-board-20.png",
+      "bytes": 1014951,
+      "sha256": "71c68b6df2cbb8d5b54a4dc9e1fc53c9821583982576e21be901b1b89c1a4b5d"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-03.jpeg",
+      "bytes": 111238,
+      "sha256": "321a31cff22eb8c415eb60584ac7a476a9e8394972bd320b178e4e4f0fb83c02"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-04.png",
+      "bytes": 302435,
+      "sha256": "4473d83b5f52f6d34c864e986feb09794cb0cc60b549ed62779489426c53d80b"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-07.png",
+      "bytes": 19237,
+      "sha256": "bf11bcd43e4bbcc1d34511f12f9a42482817f57bdc1bec5cf5b37c4ea5f320d3"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-08.jpeg",
+      "bytes": 30663,
+      "sha256": "da8524cbc11e6e030c58301a6888d088ea24f067e04b1811e1a259d918f7d271"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-09.png",
+      "bytes": 2099588,
+      "sha256": "84ff071f3a9720581f4f7237bcd690579bf7b6a151ff1ac700c5f46d53e65eea"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-10.png",
+      "bytes": 2109809,
+      "sha256": "ffe7d183cb3cd9baaa79d67a58f1fe136446ce84343650b06a53473f75631a67"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-11.jpeg",
+      "bytes": 78910,
+      "sha256": "20a460fc4bea94d9685610c2a175268a482366bf4309657d7621f1370c7f3392"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-12.jpeg",
+      "bytes": 206901,
+      "sha256": "2bf3d1a8598bc33b4fd1b9d2cf15df4c24bcb98417bd0f3a691828a953bef263"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-13.png",
+      "bytes": 2957015,
+      "sha256": "c5141f26a552ec8dbb295d826778d083dea791f2bf1a749ef8e2eaa71c416a08"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-14.png",
+      "bytes": 64831,
+      "sha256": "ed56ab14cb34a2f1571cce8028014ca1d7a5d5b63f040490703065dbaa165896"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-15.png",
+      "bytes": 2100294,
+      "sha256": "f2dcac0a2dcf27182764d21d495fccd640dfb390ce910e609445a0ba35fd7c3d"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-16.png",
+      "bytes": 2458798,
+      "sha256": "319ee12893a7d1921ca84e1b758d275a1310f041d49cc92a8ace2a6b491478fb"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-17.jpeg",
+      "bytes": 1757449,
+      "sha256": "5757d595b0f61e2992ecf0bd5dd642822d0a40d2f710ecce8ee216ab7aa9b5fb"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-18.png",
+      "bytes": 328348,
+      "sha256": "8b6d3b57bebead8bffae58469f6f73c5cabc98b5daaf2a96ad4d09d5823c5aaa"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-19.png",
+      "bytes": 2013945,
+      "sha256": "986647efee3203cc2bd538833f78186825ba2141f0cb2d604e840d66963fd188"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/mo-app-prototype-board-20.png",
+      "bytes": 2375038,
+      "sha256": "b7742ea3fa76b7729e552a6d8d77967de0a09b766f1f7b68bffa101bc6046f74"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/mo-dream-maker-board-01.png",
+      "bytes": 219502,
+      "sha256": "f5547da4148920dfd041a6c25b29e80dba578b59dadb8512af257595145bcd3d"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/mo-dream-maker-board-02.png",
+      "bytes": 8943,
+      "sha256": "29c00447f3905c5b22ce43b4f5fb1c37c8e5a48a35c28040ac8b81e1629e4663"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/mo-dream-maker-board-03.jpeg",
+      "bytes": 4560,
+      "sha256": "d08ccf3ed412d22e7c626a4548c73db38dde5e0aed2bcd437b9cbeefaa8512a1"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/mo-dream-maker-board-04.jpeg",
+      "bytes": 4603,
+      "sha256": "3bead1742cee1a9e5728af634956677a00eaff3c110049bf7117bbad444b31ed"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/mo-dream-maker-board-05.jpeg",
+      "bytes": 5405,
+      "sha256": "30590d380263719c261ce6ac4b3616b17647c0fc2159876764b6966aa2a2e305"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/mo-dream-maker-board-06.jpeg",
+      "bytes": 4840,
+      "sha256": "6a26b8d053e24437cd53ac164951f83b962e113258c1ddc6627e447aa94814ca"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-01.png",
+      "bytes": 1686548,
+      "sha256": "450d004e2d65ca98251932888de0ad164840a248b8201b47bf554d2e5626b3de"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-03.jpeg",
+      "bytes": 8443098,
+      "sha256": "9b1fc93e0167b017002e891be0b1c11b75117e130128981c2ae46d178dcccff5"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-04.png",
+      "bytes": 64032,
+      "sha256": "2859ea619487fff85b45711eafbe1e5fe4738ee4fc773457f7d8bc073b752a03"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-05.png",
+      "bytes": 174258,
+      "sha256": "8408d98a51dea0b7720829625461837bc8de3c5d5959c5f80864ea00d91f0170"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-07.png",
+      "bytes": 82244,
+      "sha256": "9ca0823dcf52e7531c1b7c700fe8f10e2892e14bbb52c9f9fc18fe8fd7c6f8c9"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-08.png",
+      "bytes": 824925,
+      "sha256": "370190f45efa98d0a7891d2a67ff82fdea65de341df1befccd8d44b1e366d704"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-09.png",
+      "bytes": 92019,
+      "sha256": "184e561eeba8455c3b9bd5d2b77b0327876842ea572dcb414f28dd6e7247807e"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-13.png",
+      "bytes": 63838,
+      "sha256": "6bc44ca0843b14b82c57e103de59f4f505294c816566d33b108a269d785a136b"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-14.png",
+      "bytes": 63470,
+      "sha256": "69ede313695dbde933d5a6f53b9add81e0294ea4743d3beb0c872fc0806cb910"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-16.png",
+      "bytes": 190256,
+      "sha256": "d42c9957fc488e627d5f9831e96c32b16756dd9269eec786f2a83c711572e3c7"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-17.png",
+      "bytes": 211851,
+      "sha256": "00206fff43d5995eb256f9c610f35e46a8da494fe97ddb94e3a69242a248791b"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/pre-slides-make-board-20.jpeg",
+      "bytes": 184329,
+      "sha256": "9eaa8e984a714cf09f9a91735e2d9bea090563dddc96645dd822fe9bcecd92a9"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/presentation-board-12.png",
+      "bytes": 112422,
+      "sha256": "d3eaab058c6f04718cac8bc1241b9fc557c4ee9c53ef155f7d2799f0e3756905"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/presentation-board-13.png",
+      "bytes": 400223,
+      "sha256": "1b0e3e9f89508409dcef9541d2c12aa9961e0609c644360dda3af57a47e366c5"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/presentation-board-17.png",
+      "bytes": 222878,
+      "sha256": "75fd068567f07e2b124011ddf050cc9c93c23a9e29d51410275333fe2432ecc8"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-02-04.png",
+      "bytes": 1327143,
+      "sha256": "4a637804ef93e331dad4b708d6607e2f67d300e59335d5ce028eb5a23c779e24"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-03-08.png",
+      "bytes": 84099,
+      "sha256": "cafe77b4426709fa4ef3a1a77c4eb630247143555a4f67b7536210d71ff7d1e1"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-24-01.png",
+      "bytes": 253306,
+      "sha256": "f4e920123fc80d7d802c2c85ceb3d64ead9c23d382e8bd36c24c1cf56e73597f"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-24-03.jpeg",
+      "bytes": 1174454,
+      "sha256": "6e6df1366473cb79da761dea55e88522d369fb671d14a19caaa84ba87dbc0405"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-24-05.png",
+      "bytes": 83507,
+      "sha256": "b617228a958fc638a0107a0ce7926fbda3d6e5742b3f02f3f0656262249eb506"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-32-03.png",
+      "bytes": 41598,
+      "sha256": "a31f6f545e00d32e705ecc5e2be75aa2464ff617a7a221a7da9f593a34ee87ed"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-32-04.png",
+      "bytes": 2423,
+      "sha256": "5fd7140d03ea209b488b3a1c6f02ae6ad55c3b9e3ecea77b3914506c3e1c6915"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-32-05.png",
+      "bytes": 6286,
+      "sha256": "ff35969285dcf62ae07a74d6e6bcfa1e9bc6836c7cdffd73ce5f02ae4b2c8b96"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-32-06.png",
+      "bytes": 490789,
+      "sha256": "6997c3cafd452fb88283cb034cd4fe0601287b6b451e1c31a69fb1b2b54bd66c"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-32-07.gif",
+      "bytes": 39064155,
+      "sha256": "e367652f62ca75e8112908fb959c72e119ffdc286cdba4896c8fc727cbbcef25"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-33-03.png",
+      "bytes": 93387,
+      "sha256": "6f282a78e97980b90e7646f8ed2fedfbe20043b461a0cf618777503c8523f222"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-33-04.png",
+      "bytes": 813134,
+      "sha256": "9f4e090701609852dfc6acb586608117612063c38e77a62bc42fb9b49f4dcb90"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-33-05.png",
+      "bytes": 17660,
+      "sha256": "c08e6ae36e9eefdc58e79e7064ec038425717f727c2ed3769652a2ed643cd98f"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-33-07.png",
+      "bytes": 349664,
+      "sha256": "869fd66f8e3b831b38f616f35b6af7c8d17b1a16482074cdf0bfd9d0e2dbd12d"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-33-09.png",
+      "bytes": 38147,
+      "sha256": "0f85fdeef3208eab762a3dcbd7c21ce3d56917996b52104635c35c4af76bb99e"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/presentation-slide-33-10.png",
+      "bytes": 41855,
+      "sha256": "2e396413246a5eb7db99643a8e21d2b74f575ab601f46eab30bed8c361b01bcd"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/research-board-01.jpeg",
+      "bytes": 885086,
+      "sha256": "a2e90c7ba598641b99efb5ba20000866991ccecdd582730a7065bdc24e1769da"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/research-board-02.png",
+      "bytes": 140559,
+      "sha256": "371bbec8f7c9854cae6cfaeee017f7907e14cc50daaaafd7ea1dda70f604b30f"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/research-board-03.png",
+      "bytes": 36888,
+      "sha256": "60490186eea791a87b72f23d17868d039fff5c7917fd22d23a74ccb3cf1a3055"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/research-board-04.png",
+      "bytes": 1256449,
+      "sha256": "d35d636811f77d2680a8b1ac462ec07dccb3b8b6ff9169c5c0cbdfb9dd4aae60"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/research-board-05.jpeg",
+      "bytes": 12245,
+      "sha256": "cfb0ec46ef646a207099868f4562618aa59bd8d9dc3339c87c7b5d022bb35178"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/research-board-06.png",
+      "bytes": 104485,
+      "sha256": "9ce9733d961df423b76da610a5739ff83bcc96d592845db070d105c08a0a7a9d"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/research-board-07.png",
+      "bytes": 37917,
+      "sha256": "4f0df066a891c4a508ed795d4324c29366dece657ed63241dab9277afdcdb71b"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/research-board-08.png",
+      "bytes": 223141,
+      "sha256": "0cf596d9edf3a077911749ebc69a16459ff196273ab9184998f038b33b0a1308"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/research-board-09.png",
+      "bytes": 1067189,
+      "sha256": "b237bf80b6ff77d288537abcd28140a14cd11e7ae6e6318085b1d0cf99f33ab1"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/research-board-10.png",
+      "bytes": 67492,
+      "sha256": "ac0a7f5081b19f502dd937e3c9b2d453ab0bfb4d8ddbef7f924b91e9d2eb048b"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/research-board-11.jpeg",
+      "bytes": 922637,
+      "sha256": "78d7f80db63e26533bde074213b27dadd64efb83c7b9be407d3d84035d3fa35e"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/research-board-12.jpeg",
+      "bytes": 57602,
+      "sha256": "4291b7e235c3efe523a1bf922381972527396348e3ebbca146be5ff108914496"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/research-board-13.png",
+      "bytes": 34926,
+      "sha256": "a307ecc5b6a75752dc66c0b6e03e8246fcdfb2320453b1ba54ead28338aa71d9"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/research-board-14.png",
+      "bytes": 149156,
+      "sha256": "9c9d97fc2eca8949c38ca89d69e4a1c7f7c11793f6b688b3a28ec14064942cd5"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/research-board-15.png",
+      "bytes": 46621,
+      "sha256": "bc3b73d2f15eef54526b818b945d1d8c4da57330c2694ac74255b8e13a155faa"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/research-board-16.png",
+      "bytes": 380630,
+      "sha256": "933aa95ead4444c3f280269f5bbc4e7dd9b5b780cd5a3a1a9221badc22066fdf"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/research-board-17.png",
+      "bytes": 206106,
+      "sha256": "7a924c9d99bd1f0ef3cadd87440904914d382d6e77a6729d5ce42dac5ba81063"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/research-board-18.png",
+      "bytes": 26731,
+      "sha256": "4f559427973a3b187887f53e049ae0bbe59e6f8ee7fe56b0cca0c2daa9173e11"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/research-board-19.png",
+      "bytes": 11626,
+      "sha256": "2e7cb7bfda04aa9749c109ea8f64b6753284e1d2a865d4c179192ec4a657ac11"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-images/research-board-20.png",
+      "bytes": 188399,
+      "sha256": "0d68c2a6bf04b25923ed8ccab0ba68084eb999042f42c1b593ac0c340665c234"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-01.svg",
+      "bytes": 2149,
+      "sha256": "2c9c47804e14c4010c1a71deee381dcdb14dd5811d28888f418565a06223182e"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-02.svg",
+      "bytes": 532,
+      "sha256": "51fb70054f87cd4174752e54fc06f678e4845165b442d9e1a9b9ba2074573181"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-03.svg",
+      "bytes": 2080,
+      "sha256": "9fa2aafe0504f8ada3b1583c94dd8b588240eb6062dc1cbb992289f36a181e5c"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-04.svg",
+      "bytes": 535,
+      "sha256": "b2e0bf01b01b88c5e1f43b170d746d7d89702c7134bfdaa6bd58c6c70ef14647"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-05.svg",
+      "bytes": 278,
+      "sha256": "22c4d27673f9a86e8e68e89a607f3c65f24bd7da0527a8f0d90d07bfb6bd2f1e"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-06.svg",
+      "bytes": 574,
+      "sha256": "884294ea4eb1d0fd34075fe678816590ba2ebc50e98b8e64ab3f0fcc08e562f0"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-07.svg",
+      "bytes": 804,
+      "sha256": "fd7257d241fbe48b9b4a4077e81e8f514c1b1fedac11a3aba7f4dc9b12c75777"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-08.svg",
+      "bytes": 1450,
+      "sha256": "24dc63de84b2a39734c641d95f4978119e6b493d4dda549c3b3c04035c772b3e"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-09.svg",
+      "bytes": 928,
+      "sha256": "7b9a66d50b1aa0c149ec7ffb34b00e3b8bb056704bac36d574e99f3d64ce2e85"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-10.svg",
+      "bytes": 281,
+      "sha256": "afe5599d0e2c09601a774b723eb8fe9cd0d18a2f96b15cc4b395cf384b83ac80"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-11.svg",
+      "bytes": 1161,
+      "sha256": "17e3cfcef2da4b34a63199bf49aa823ef49a7acd5ba20862f4596b5f8c95a074"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-12.svg",
+      "bytes": 2141,
+      "sha256": "0ec7ad8df8d78b52e1877a12c3158e12e830c18853d3e7fa660c521b3b22a3d4"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-13.svg",
+      "bytes": 534,
+      "sha256": "be8191867b51162c3dd1d7a3df5f7348cb23f707e878a497c88b4e8b816f4ce0"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-14.svg",
+      "bytes": 251,
+      "sha256": "a45ab737f3f03855e3e272f829b81737e55255bd91041d170b50ced5e2de8ac9"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-15.svg",
+      "bytes": 533,
+      "sha256": "efc9fc74709d5700b7685ee1b806d928a3cbbfaaf714e6e341ec3850b79e8cad"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-16.svg",
+      "bytes": 532,
+      "sha256": "ed4d7f05e08f5e246eefbf1ce4b16b96640c4830585d9394d07b9be19e4caed0"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-17.svg",
+      "bytes": 2142,
+      "sha256": "7f3eee9880958302ad8c3c6c4ed45baef974e67dec5f3b9728396579a31f29bf"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-18.svg",
+      "bytes": 920,
+      "sha256": "7aec33154b5b80870b252759cb3fb5ba4eb323f837a3a936c21fe89413dba063"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-19.svg",
+      "bytes": 2023,
+      "sha256": "6b545334cb00203584477ada795e2302a34de36de1525c033a15526a456014c5"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-07-20.svg",
+      "bytes": 2096,
+      "sha256": "4340fe53074054657163da245fc1f56f465a5c95ea0b6a0290451dfa18fc22b1"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-01.svg",
+      "bytes": 340,
+      "sha256": "c6ccf436e7bf9f935ee956d9628352153f22869d71217dbe1f2d8c04605e31fb"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-02.svg",
+      "bytes": 924,
+      "sha256": "d339a38ca7e68912c2ceba9e0abfd5c5a9290824750b000c630b6b354cc8338d"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-03.svg",
+      "bytes": 2141,
+      "sha256": "d8d639133533b3045106960f2b00c1ff1797f893caa489378bb34ccf9e00cb36"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-04.svg",
+      "bytes": 540,
+      "sha256": "6141b79bed4eba743ce96655b5a5f4a6f32a36c9047c1b621d40108dc220d54c"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-05.svg",
+      "bytes": 991,
+      "sha256": "553f784fef122cd2601a7fe9286ff7315a270a9e23ac9f1e3c1dccf7a127a9e6"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-06.svg",
+      "bytes": 775,
+      "sha256": "1366e8944e956b65ae678963edd07735cb8316f3343ef142a1ae11c32db9315e"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-07.svg",
+      "bytes": 532,
+      "sha256": "20b5b11bdd47efa75991188044ee29ef2a4e2fb28c2ee61262b435722105ce88"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-08.svg",
+      "bytes": 281,
+      "sha256": "efc79395d49f9114b3cdcef52c7c267d4552358ac7b48e819544a7dd7605fbb3"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-10.svg",
+      "bytes": 2150,
+      "sha256": "94de3581785de507d4c2fbc87001f362bdcec50ec0bee265afa96b45a227f415"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-11.svg",
+      "bytes": 248,
+      "sha256": "560afdb30b8d14858829605bfc56376f9b293b883607438672e076ccf8ab6297"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-12.svg",
+      "bytes": 251,
+      "sha256": "b5f668070048639a565cb2b179a96c14b9052898aa0ee0985ae441277fc86638"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-13.svg",
+      "bytes": 539,
+      "sha256": "8daac77fce32d5746f549c2c812f4086dfc1b808d26e113ee1d893966e00a629"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-14.svg",
+      "bytes": 394,
+      "sha256": "211028fb1661ab6678b079792b4f678ae06a38858a0c3f47e1838ad976226f25"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-16.svg",
+      "bytes": 232,
+      "sha256": "fde03ee0e7f324296b8865456d33835197c03c609097eec75bd796e6c5aad4df"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-18.svg",
+      "bytes": 535,
+      "sha256": "35ffe2fc915bca4f1bb5f0234fc6fafb77591527d0f6f4f3530734eb5915335d"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-19.svg",
+      "bytes": 537,
+      "sha256": "6ee7d4a7349a639d322470b2c3e581571fba2427ecbba68c387e8624d26b187f"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-18-20.svg",
+      "bytes": 281,
+      "sha256": "1df616f1782a32b776bede77afa46fb46aed80de8d4bf545c52e1cc10a2fcf4f"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-01.svg",
+      "bytes": 924,
+      "sha256": "d6ebdada4ed703d773d60fee7bab5123cb3b4fb439be281701fd0a2b4a63c340"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-02.svg",
+      "bytes": 698,
+      "sha256": "d3977345dc90da4b77d15281a032f673d344a99a6a1c35148910cb41be609d96"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-03.svg",
+      "bytes": 1139,
+      "sha256": "8cf43e850676d3c3154521056fc91f187952510b89c30132d12901593c7db4de"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-04.svg",
+      "bytes": 926,
+      "sha256": "d0f7acb80c10bfafc6713996a5af9cd8eccb08420e63772d93bc34cf376793a3"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-05.svg",
+      "bytes": 1149,
+      "sha256": "b56794ba5b8b3cfd1d0d2488f0620b63a8c094b43585303fd9e12848f70b3e4d"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-07.svg",
+      "bytes": 1492,
+      "sha256": "d94c8df1eaa72b9f286a3882372e6520730bb7830fa990993141b79fe692ee56"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-10.svg",
+      "bytes": 794,
+      "sha256": "902b9fb4e47b7e851f0b60376a04a53c829d37526b1ada883ebade71b50f9205"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-11.svg",
+      "bytes": 1232,
+      "sha256": "43f00fedfa2b62f6bc1670ff1d3631aa77191038d8bb26683a3ac44ef5402381"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-12.svg",
+      "bytes": 1092,
+      "sha256": "f970bc31cd66bb527617d08b2e4948ce0a5b010d85c30546eeac2ef60dd2f295"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-13.svg",
+      "bytes": 1065,
+      "sha256": "f732ea4b40d4803b1a0b40a9234d6212a73effc51adf53231c99409d94b866ba"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-14.svg",
+      "bytes": 750,
+      "sha256": "459f2830347b35a92b62634f3bc60613ddbfe0e36cbe493476c833cea84c5ac5"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-16.svg",
+      "bytes": 12691,
+      "sha256": "7dc15920d6f188d1c95f5d1c3854d9dbc05e424924ec503b96c3a857f3f479ec"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-17.svg",
+      "bytes": 574,
+      "sha256": "80da09446768adac42f3dcf686e204cab4470b1307c61528ed26446ab57a4673"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-18.svg",
+      "bytes": 12674,
+      "sha256": "11a1343f678699b07a2336f8fff2c68939179a43e87ed5e09d41d80bd378459a"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-19.svg",
+      "bytes": 12646,
+      "sha256": "da63f06fc0811b84e86eeebfd47fb8a8ec4ed0a943b4e05ae417831ed414b24e"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-csm-19-20.svg",
+      "bytes": 970,
+      "sha256": "411fe186a8ea04fab5914e8a50d314abb235f1127d9af00089fa6ce1d5179383"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-01.svg",
+      "bytes": 2135,
+      "sha256": "18a45530c91a37dbe1851a8f8313998461ffe28a5a8952ff6f95050b9ea0a8a5"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-03.svg",
+      "bytes": 284,
+      "sha256": "1a121f3c4ade37408265589ff967ae1df3f077ea02c91514c3e4d20cb77f1939"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-04.svg",
+      "bytes": 536,
+      "sha256": "9a6df2582b36f9bbaf1cb6fbdb0c88b9f906d6697829a83e878b5f270c429c5c"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-05.svg",
+      "bytes": 2134,
+      "sha256": "4f04135b0782e9357159481c070884f9d5c4bab9c7156a834c3a74c870368983"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-06.svg",
+      "bytes": 533,
+      "sha256": "2ec9f16fd3be70ea27e4f89d3df0cb5b8177c78c97cf7fec60b17fd0fc5de133"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-07.svg",
+      "bytes": 12694,
+      "sha256": "136d69dccf00a4db0064560f21f7cbf1e08edcf7d5c1a8c90ac845d5b1efa055"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-08.svg",
+      "bytes": 536,
+      "sha256": "c39a13feedbbb1f31932ab6b5c45ce1b1f3920863ed67652f90fc337189edcce"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-09.svg",
+      "bytes": 528,
+      "sha256": "3239b8bb0e6b5bc8ce6c5ea1e1c9a2d74443c084338c41b8e2a797b9725be1f7"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-10.svg",
+      "bytes": 281,
+      "sha256": "f057e74a2cfbda1531034c7fadbe80a2a8606223b62afcbce8ec60f3dd5c919a"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-11.svg",
+      "bytes": 278,
+      "sha256": "1e4364d9a8f4d9b92b053bc1ca70cea7e12d952c839e511ea64bdf29218adfb2"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-12.svg",
+      "bytes": 796,
+      "sha256": "bf19906f511582d08199af44975c2788987912ff534dee2ea5898f28cd61d68e"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-13.svg",
+      "bytes": 278,
+      "sha256": "2de4604ac19841ec319dd09eb7267a783b08383d09553b2a3e2c332af72468a7"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-14.svg",
+      "bytes": 928,
+      "sha256": "a16a55afa72855ba78a01a390c56e3b9ba9919637f330a27b9cb4dec0a5c4f30"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-15.svg",
+      "bytes": 2110,
+      "sha256": "04a7629913135b658aaa50f5f1a053e53e4f2c0fb27208c67bacf2c075667547"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-16.svg",
+      "bytes": 281,
+      "sha256": "7c5d07a54e54833b0ef3fe3bc79e4ff4b850a333b06794ce833b98ca0e8131c3"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-17.svg",
+      "bytes": 1157,
+      "sha256": "ff9b14dc6133d842155b2ad9e40e76054fe27d1c822b877bd0fe0ad850573971"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-18.svg",
+      "bytes": 248,
+      "sha256": "f3471354a3c13a844bf3869ca8f43d556a591f231cb91c0956cfbca8d6cb3098"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-19.svg",
+      "bytes": 964,
+      "sha256": "bf08169f3579ff717bd39c29ef84a9276b6a148721b549c5cb6fd94e76b8eb20"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-07-20.svg",
+      "bytes": 2074,
+      "sha256": "fda240d0c0dde3093f60f35ee996c886bb528453ad34c6f2e91b9b161d6fbbf1"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-18-03.svg",
+      "bytes": 541,
+      "sha256": "fe602037f5fdaab66ef3083df9915e033203649828ca45b88065c031c446e7d6"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-18-04.svg",
+      "bytes": 2057,
+      "sha256": "344123303ca1b37b60a17c9391d6e3a9d57104d2142c267e17a96f0a5324cf64"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-18-08.svg",
+      "bytes": 534,
+      "sha256": "b3360851aa8671de8ddb0e8cca917c51d142ed6d9dae7f06f1d279f44b3a577f"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-18-11.svg",
+      "bytes": 537,
+      "sha256": "8aeffbf8d6629e6b117d7dc92442eb74c67d2b0352742a6cf1d6dace829c32d7"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-18-13.svg",
+      "bytes": 993,
+      "sha256": "0efa3855b1939cd20c71e6748087ce382c6e9075173102e41c5898ed8d90687c"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-18-14.svg",
+      "bytes": 536,
+      "sha256": "faa3368b07109674132b2919eeb6e3d72d436f110766edf514a5f73d91a6ee37"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-18-16.svg",
+      "bytes": 542,
+      "sha256": "d0de6706528c5919d9aa99eaaf046180205fe5b2a6820769e9c0a3b0789f7753"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-18-17.svg",
+      "bytes": 2151,
+      "sha256": "51e3af0f5307197376ebb9c0541ce6cc9efea55f49c4f72824ac6afbe6450709"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-18-18.svg",
+      "bytes": 774,
+      "sha256": "eed54bf86be0d37039709b5998c70b697766072d03baabeec4e91d89b98d86ef"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-18-19.svg",
+      "bytes": 2121,
+      "sha256": "568d0b86b9dee065585099cc9a6b5044d347d1ed861f59a7614245377fce6a1b"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-19-01.svg",
+      "bytes": 12711,
+      "sha256": "6182cc67284e587f487f265bcfa2808b3cb2a04c88353353ac86dc681e419f7f"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-19-02.svg",
+      "bytes": 1192,
+      "sha256": "8f93b254b63955d15b0cd9618b4fd7f5c3ad9152f4fd7f845dd30e1105090a60"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-19-03.svg",
+      "bytes": 801,
+      "sha256": "7fb5b607893056e9e35b7bff754f15db60096a219921a736a808bbd94a4f6236"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-19-04.svg",
+      "bytes": 12674,
+      "sha256": "6152fb349f8ee7297abfded4c72286705f5eae52be8084651ac83241cb9d7954"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-19-05.svg",
+      "bytes": 12646,
+      "sha256": "14f0109f0d3438227b1608d38660b3404c46cca4d0b9578a3a9c0abbc77728f4"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-19-07.svg",
+      "bytes": 1500,
+      "sha256": "c6aa1664dd0bdc5cfbb61dbd1f60b345d94d20536408a35cec54c0b6cd5fc19e"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-19-11.svg",
+      "bytes": 1135,
+      "sha256": "2a77e5e3400e5fc56c2c22747020623500a7318f5371d6aa2481860ec7c2de41"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-19-14.svg",
+      "bytes": 1155,
+      "sha256": "de3f9eaa46854aa776f96c38a2435c31f668b4da8105ebf826e7649715e78d53"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-19-16.svg",
+      "bytes": 698,
+      "sha256": "dfc7aeade5442b9dfc6e2948ce64bf0f5f9e60a2370d8388c1d4fed16688cca5"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-19-18.svg",
+      "bytes": 969,
+      "sha256": "51b5b40213664c652a51976ccecb1db6e2142b4e25eb1a2ec2f32274569e55c2"
+    },
+    {
+      "path": "deliverables/figma/2026-10-24/source-vectors/case-study-original-19-19.svg",
+      "bytes": 929,
+      "sha256": "9fe4d4c34d90b48955ab8e2eadc220f5b2891ee2b5d22164569a5e82275924e8"
+    }
+  ]
+}

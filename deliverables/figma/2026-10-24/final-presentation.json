@@ -1,0 +1,4193 @@
+{
+  "schemaVersion": 1,
+  "archivedOn": "2026-10-24",
+  "timezone": "Asia/Hong_Kong",
+  "archiveType": "Complete text-node content and top-level node inventory returned for this page; not a native Figma file or full layer/interaction backup",
+  "fileKey": "a5Mf39eUB7M9nGiT0P9lj3",
+  "pageId": "1132:734",
+  "pageName": "Final Presentation",
+  "roots": [
+    {
+      "id": "1165:327",
+      "type": "FRAME",
+      "name": "Cover",
+      "x": 0,
+      "y": 0,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2040:7762",
+      "type": "FRAME",
+      "name": "Cover",
+      "x": 6013,
+      "y": 8232,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1249:633",
+      "type": "FRAME",
+      "name": "Storytelling1",
+      "x": 0,
+      "y": 1489,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1249:686",
+      "type": "FRAME",
+      "name": "Storytelling2",
+      "x": 1960,
+      "y": 1489,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1249:708",
+      "type": "FRAME",
+      "name": "Storytelling3",
+      "x": 3920,
+      "y": 1489,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1249:730",
+      "type": "FRAME",
+      "name": "Storytelling4",
+      "x": 5880,
+      "y": 1489,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1249:819",
+      "type": "FRAME",
+      "name": "Storytelling5",
+      "x": 7840,
+      "y": 1489,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1251:957",
+      "type": "FRAME",
+      "name": "Storytelling6",
+      "x": 9800,
+      "y": 1489,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1571:816",
+      "type": "FRAME",
+      "name": "Research1",
+      "x": 0,
+      "y": 2824,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1571:879",
+      "type": "FRAME",
+      "name": "Research2",
+      "x": 1960,
+      "y": 2824,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1571:926",
+      "type": "FRAME",
+      "name": "Research3",
+      "x": 3920,
+      "y": 2824,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1571:990",
+      "type": "FRAME",
+      "name": "Research4.1",
+      "x": 5880,
+      "y": 2824,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1571:1008",
+      "type": "FRAME",
+      "name": "Research4.2",
+      "x": 7840,
+      "y": 2824,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1571:1050",
+      "type": "FRAME",
+      "name": "insights",
+      "x": 0,
+      "y": 4132,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1759:5781",
+      "type": "FRAME",
+      "name": "Influence",
+      "x": 2053,
+      "y": 8232,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2040:7718",
+      "type": "FRAME",
+      "name": "Recapping",
+      "x": 93,
+      "y": 8232,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1759:5872",
+      "type": "FRAME",
+      "name": "Risk",
+      "x": 4013,
+      "y": 8232,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1571:1101",
+      "type": "FRAME",
+      "name": "user journey map",
+      "x": 1960,
+      "y": 4132,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1571:1185",
+      "type": "FRAME",
+      "name": "stakeholder map1",
+      "x": 3920,
+      "y": 4132,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1571:1312",
+      "type": "FRAME",
+      "name": "Service blueprint1",
+      "x": 5880,
+      "y": 4132,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1571:1438",
+      "type": "FRAME",
+      "name": "Service blueprint1",
+      "x": 7840,
+      "y": 4132,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1725:4147",
+      "type": "FRAME",
+      "name": "HMW",
+      "x": 5973,
+      "y": 6897,
+      "width": 1920.00048828125,
+      "height": 1080.0003662109375
+    },
+    {
+      "id": "1725:4155",
+      "type": "FRAME",
+      "name": "Process Introduction",
+      "x": 7933,
+      "y": 6897,
+      "width": 1920.00048828125,
+      "height": 1080.0003662109375
+    },
+    {
+      "id": "1725:4171",
+      "type": "FRAME",
+      "name": "DM_Workflow 1",
+      "x": 9893,
+      "y": 6897,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2134:3781",
+      "type": "FRAME",
+      "name": "DM_Workflow 2",
+      "x": 11937,
+      "y": 6922,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1725:4253",
+      "type": "FRAME",
+      "name": "Current_Situation (1) 1",
+      "x": 4013,
+      "y": 6897,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1687:4927",
+      "type": "RECTANGLE",
+      "name": "Rectangle 118",
+      "x": 0,
+      "y": 11986,
+      "width": 314,
+      "height": 388
+    },
+    {
+      "id": "1741:4561",
+      "type": "FRAME",
+      "name": "Dream maker",
+      "x": 82,
+      "y": 6897,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1687:4928",
+      "type": "TEXT",
+      "name": "Dream Maker 部分",
+      "x": 128,
+      "y": 8086,
+      "width": 244,
+      "height": 37
+    },
+    {
+      "id": "1725:4298",
+      "type": "FRAME",
+      "name": "Offline observation 02 — Restyled",
+      "x": 2053,
+      "y": 6897,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1871:391",
+      "type": "FRAME",
+      "name": "From Purpose to Preference",
+      "x": 1960,
+      "y": 5440,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1871:409",
+      "type": "FRAME",
+      "name": "Easier to Speak for the Guest",
+      "x": 0,
+      "y": 5440,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2084:2",
+      "type": "FRAME",
+      "name": "Dream maker",
+      "x": -11,
+      "y": 7100,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2084:66",
+      "type": "FRAME",
+      "name": "Offline observation 02 — Restyled",
+      "x": 1949,
+      "y": 7100,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2084:105",
+      "type": "FRAME",
+      "name": "Current_Situation (1) 1",
+      "x": 3909,
+      "y": 7100,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2084:257",
+      "type": "FRAME",
+      "name": "HMW",
+      "x": 5869,
+      "y": 7100,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2084:308",
+      "type": "FRAME",
+      "name": "Process Introduction",
+      "x": 7829,
+      "y": 7100,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "2084:330",
+      "type": "FRAME",
+      "name": "DM_Workflow 1",
+      "x": 9789,
+      "y": 7100,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1906:3817",
+      "type": "FRAME",
+      "name": "Two Dimensions Behind Every Setup 3",
+      "x": 5880,
+      "y": 5467,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1917:391",
+      "type": "FRAME",
+      "name": "Service scope / analysis composition",
+      "x": 5989,
+      "y": 5875,
+      "width": 1782,
+      "height": 500
+    },
+    {
+      "id": "1906:3847",
+      "type": "FRAME",
+      "name": "Two Dimensions Behind Every Setup 4",
+      "x": 7840,
+      "y": 5467,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1871:490",
+      "type": "FRAME",
+      "name": "One Scenario, One Preset Table",
+      "x": 9800,
+      "y": 5467,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1871:520",
+      "type": "FRAME",
+      "name": "Designed Around the Journey",
+      "x": 3920,
+      "y": 5440,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1973:4306",
+      "type": "FRAME",
+      "name": "Demo",
+      "x": 11762,
+      "y": 5467,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "1973:14941",
+      "type": "FRAME",
+      "name": "Storytelling",
+      "x": 13724,
+      "y": 5467,
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "texts": [
+    [
+      "1165:333",
+      "1165:327",
+      "The Unsaid"
+    ],
+    [
+      "1165:334",
+      "1165:327",
+      "elevated pre-arrival service blueprint"
+    ],
+    [
+      "1165:341",
+      "1165:327",
+      "Client: Mandarin Oriental\nGroup: "
+    ],
+    [
+      "2040:7768",
+      "2040:7762",
+      "THANKS"
+    ],
+    [
+      "2040:7776",
+      "2040:7762",
+      "Client: Mandarin Oriental\nGroup: "
+    ],
+    [
+      "1249:635",
+      "1249:633",
+      "Let’s Imagine..."
+    ],
+    [
+      "1249:636",
+      "1249:633",
+      "- // First_of_all - "
+    ],
+    [
+      "1249:688",
+      "1249:686",
+      "You are the CEO of a luxury hotel"
+    ],
+    [
+      "1249:689",
+      "1249:686",
+      "- // Once_upon_a_time / Now - "
+    ],
+    [
+      "1249:699",
+      "1249:686",
+      "Differentiate from others"
+    ],
+    [
+      "1249:700",
+      "1249:686",
+      "// Competitors are competing // Beyond staying in a room"
+    ],
+    [
+      "1249:701",
+      "1249:686",
+      "// Be the one in the market // Select brand believers"
+    ],
+    [
+      "1249:702",
+      "1249:686",
+      "// No bankrupt // Low cost and extra income"
+    ],
+    [
+      "1249:703",
+      "1249:686",
+      "Raise the brand equity"
+    ],
+    [
+      "1249:704",
+      "1249:686",
+      "Earning a profit"
+    ],
+    [
+      "1249:710",
+      "1249:708",
+      "Targeting the high-net-worth customers  "
+    ],
+    [
+      "1249:711",
+      "1249:708",
+      "- // Because_of_that - "
+    ],
+    [
+      "1249:716",
+      "1249:708",
+      "Most of them are guests with peer influence "
+    ],
+    [
+      "1249:717",
+      "1249:708",
+      "// Some are KOC / KOL // Social circles, network promotion"
+    ],
+    [
+      "1249:722",
+      "1249:708",
+      "Greater revenue potential beyond room bookings"
+    ],
+    [
+      "1249:723",
+      "1249:708",
+      "// Dining, spa and personalised experiences // Repeat stays and long-term guest value"
+    ],
+    [
+      "1249:728",
+      "1249:708",
+      "Winning their loyalty can strengthen luxury positioning."
+    ],
+    [
+      "1249:729",
+      "1249:708",
+      "// Reinforce the brand’s prestige // Build aspiration among a wider audience"
+    ],
+    [
+      "1249:732",
+      "1249:730",
+      "- // One_day - "
+    ],
+    [
+      "1249:734",
+      "1249:730",
+      "HOTEL SIDE"
+    ],
+    [
+      "1249:769",
+      "1249:768",
+      "GUEST"
+    ],
+    [
+      "1249:770",
+      "1249:768",
+      "Person staying"
+    ],
+    [
+      "1249:772",
+      "1249:771",
+      "Agent"
+    ],
+    [
+      "1249:773",
+      "1249:771",
+      "Arranges the stay"
+    ],
+    [
+      "1249:775",
+      "1249:774",
+      "Reservations\n"
+    ],
+    [
+      "1249:776",
+      "1249:774",
+      "Receives requests"
+    ],
+    [
+      "1249:778",
+      "1249:777",
+      "Driver"
+    ],
+    [
+      "1249:779",
+      "1249:777",
+      "Arrival coordination"
+    ],
+    [
+      "1249:781",
+      "1249:780",
+      "Welcome staff"
+    ],
+    [
+      "1249:782",
+      "1249:780",
+      "Arrival information"
+    ],
+    [
+      "1249:784",
+      "1249:783",
+      "House keeping"
+    ],
+    [
+      "1249:785",
+      "1249:783",
+      "Operational coordination"
+    ],
+    [
+      "1249:787",
+      "1249:786",
+      "Front desk"
+    ],
+    [
+      "1249:788",
+      "1249:786",
+      "Check-in & service"
+    ],
+    [
+      "1249:790",
+      "1249:789",
+      "Room services"
+    ],
+    [
+      "1249:791",
+      "1249:789",
+      "Prepares services"
+    ],
+    [
+      "1249:793",
+      "1249:792",
+      "Canteen services"
+    ],
+    [
+      "1249:794",
+      "1249:792",
+      "Downstream coordination"
+    ],
+    [
+      "1249:796",
+      "1249:795",
+      "SPA services"
+    ],
+    [
+      "1249:797",
+      "1249:795",
+      "Downstream coordination"
+    ],
+    [
+      "1249:798",
+      "1249:730",
+      "Needs & agenda"
+    ],
+    [
+      "1249:799",
+      "1249:730",
+      "Booking requests"
+    ],
+    [
+      "1249:800",
+      "1249:730",
+      "Service Delivery"
+    ],
+    [
+      "1249:801",
+      "1249:730",
+      "You found there are some difficulties..."
+    ],
+    [
+      "1249:805",
+      "1249:803",
+      "No direct contact"
+    ],
+    [
+      "1249:808",
+      "1249:806",
+      "Information Messy"
+    ],
+    [
+      "1249:811",
+      "1249:809",
+      "Cost burden"
+    ],
+    [
+      "1249:817",
+      "1249:730",
+      "?"
+    ],
+    [
+      "1249:818",
+      "1249:730",
+      "$"
+    ],
+    [
+      "1249:821",
+      "1249:819",
+      "- // Because_of_that - "
+    ],
+    [
+      "1249:822",
+      "1249:819",
+      "You are trying to find a solution."
+    ],
+    [
+      "1249:827",
+      "1249:823",
+      "// Find latent needs // Try to build a channel"
+    ],
+    [
+      "1249:830",
+      "1249:828",
+      "No direct contact"
+    ],
+    [
+      "1249:841",
+      "1249:837",
+      "// Ensure delivery quality // Build a new work flow"
+    ],
+    [
+      "1249:844",
+      "1249:842",
+      "Information Messy"
+    ],
+    [
+      "1249:850",
+      "1249:846",
+      "// Limited labors and trainings // Automation"
+    ],
+    [
+      "1249:853",
+      "1249:851",
+      "Cost burden"
+    ],
+    [
+      "1249:857",
+      "1249:819",
+      "This is all about"
+    ],
+    [
+      "1249:858",
+      "1249:819",
+      "Balancing among latent needs service, delivery quality and cost managment."
+    ],
+    [
+      "1251:959",
+      "1251:957",
+      "- // It_sounds_like_an_impossible_triangle_but - "
+    ],
+    [
+      "1251:960",
+      "1251:957",
+      "That is how we understand the brief given by MO."
+    ],
+    [
+      "1251:966",
+      "1251:957",
+      "We are solving for"
+    ],
+    [
+      "1251:967",
+      "1251:957",
+      "in service of"
+    ],
+    [
+      "1251:968",
+      "1251:957",
+      "pre-arrival service that helps guests feel recognised and can be delivered reliably at manageable cost and complexity,"
+    ],
+    [
+      "1251:969",
+      "1251:957",
+      "Mandarin Oriental’s goal of strengthening brand equity and guests’ willingness to pay."
+    ],
+    [
+      "1251:974",
+      "1251:970",
+      "// 5% hotel customers // Pearl VIPs\n// High net wealth"
+    ],
+    [
+      "1251:975",
+      "1251:970",
+      "Focus Group"
+    ],
+    [
+      "1251:980",
+      "1251:976",
+      "// 5% hotel customers // Pearl VIPs\n// High net worth"
+    ],
+    [
+      "1251:981",
+      "1251:976",
+      "Focus Group"
+    ],
+    [
+      "1251:986",
+      "1251:982",
+      "// HK Mandarin Oriental // Urban Type"
+    ],
+    [
+      "1251:987",
+      "1251:982",
+      "Location"
+    ],
+    [
+      "1571:818",
+      "1571:816",
+      "- // And_look_back_to_the_story - "
+    ],
+    [
+      "1571:819",
+      "1571:816",
+      "The story is not just made up,\nThey are actually from our research findings."
+    ],
+    [
+      "1571:822",
+      "1571:821",
+      "today’s_presentation"
+    ],
+    [
+      "1571:823",
+      "1571:821",
+      "10 MIN"
+    ],
+    [
+      "1571:826",
+      "1571:825",
+      "1 min"
+    ],
+    [
+      "1571:828",
+      "1571:827",
+      "2 min"
+    ],
+    [
+      "1571:830",
+      "1571:829",
+      "2 min"
+    ],
+    [
+      "1571:832",
+      "1571:831",
+      "2 min"
+    ],
+    [
+      "1571:834",
+      "1571:833",
+      "1 min"
+    ],
+    [
+      "1571:836",
+      "1571:835",
+      "2 min"
+    ],
+    [
+      "1571:841",
+      "1571:840",
+      "00:00"
+    ],
+    [
+      "1571:842",
+      "1571:840",
+      "Opening: a story"
+    ],
+    [
+      "1571:843",
+      "1571:840",
+      "1 min"
+    ],
+    [
+      "1571:847",
+      "1571:846",
+      "01:00"
+    ],
+    [
+      "1571:848",
+      "1571:846",
+      "Research findings & Service blueprint"
+    ],
+    [
+      "1571:849",
+      "1571:846",
+      "2 min"
+    ],
+    [
+      "1571:853",
+      "1571:852",
+      "03:00"
+    ],
+    [
+      "1571:854",
+      "1571:852",
+      "Design introduction 1"
+    ],
+    [
+      "1571:855",
+      "1571:852",
+      "2 min"
+    ],
+    [
+      "1571:860",
+      "1571:859",
+      "05:00"
+    ],
+    [
+      "1571:861",
+      "1571:859",
+      "Design introduction 2"
+    ],
+    [
+      "1571:862",
+      "1571:859",
+      "2 min"
+    ],
+    [
+      "1571:866",
+      "1571:865",
+      "07:00"
+    ],
+    [
+      "1571:867",
+      "1571:865",
+      "Influence & Risks"
+    ],
+    [
+      "1571:868",
+      "1571:865",
+      "1 min"
+    ],
+    [
+      "1571:872",
+      "1571:871",
+      "08:00"
+    ],
+    [
+      "1571:873",
+      "1571:871",
+      "Q&A session"
+    ],
+    [
+      "1571:874",
+      "1571:871",
+      "2 min"
+    ],
+    [
+      "1571:878",
+      "1571:876",
+      "We are here now"
+    ],
+    [
+      "1571:884",
+      "1571:879",
+      "- // Two_key_insights_the_first_is - "
+    ],
+    [
+      "1571:885",
+      "1571:879",
+      "Three roles in a booking."
+    ],
+    [
+      "1571:890",
+      "1571:889",
+      "1 · Information among three roles"
+    ],
+    [
+      "1571:900",
+      "1571:899",
+      "Staying guest"
+    ],
+    [
+      "1571:902",
+      "1571:901",
+      "Private agent"
+    ],
+    [
+      "1571:904",
+      "1571:903",
+      "Hotel"
+    ],
+    [
+      "1571:905",
+      "1571:889",
+      "Information: Guest → Agent → Hotel"
+    ],
+    [
+      "1571:906",
+      "1571:889",
+      "Limited direct contact at booking"
+    ],
+    [
+      "1571:910",
+      "1571:909",
+      "2 · MO ONLINE INTERVIEW"
+    ],
+    [
+      "1571:911",
+      "1571:909",
+      "95%"
+    ],
+    [
+      "1571:912",
+      "1571:909",
+      "book through\nprivate agents"
+    ],
+    [
+      "1571:913",
+      "1571:909",
+      "Among the 5% high-net-worth segment\nwe focus on."
+    ],
+    [
+      "1571:914",
+      "1571:909",
+      "Source: MO online interview · 16 Sep\nInterview-reported data"
+    ],
+    [
+      "1571:918",
+      "1571:917",
+      "3 · OFFLINE INTERVIEWS & OBSERVATIONS"
+    ],
+    [
+      "1571:919",
+      "1571:917",
+      "4 / 5"
+    ],
+    [
+      "1571:920",
+      "1571:917",
+      "said their agents\nbooked their stay"
+    ],
+    [
+      "1571:921",
+      "1571:917",
+      "5 guests that are matching our\nhigh-net-worth profile."
+    ],
+    [
+      "1571:922",
+      "1571:917",
+      "Source: HK MO lobby interviews · 12 Sep\nSmall sample · n = 5"
+    ],
+    [
+      "1571:927",
+      "1571:926",
+      "- // Because_of_that - "
+    ],
+    [
+      "1571:928",
+      "1571:926",
+      "The agent is the key."
+    ],
+    [
+      "1571:933",
+      "1571:932",
+      "1 · THREE PERSONAL AGENTS"
+    ],
+    [
+      "1571:939",
+      "1571:938",
+      "Ms. Zhao"
+    ],
+    [
+      "1571:940",
+      "1571:938",
+      "Personal agent\nJob title: Xiaomi EV"
+    ],
+    [
+      "1571:945",
+      "1571:944",
+      "Ms. Chen"
+    ],
+    [
+      "1571:946",
+      "1571:944",
+      "Personal agent\nJob title: Agent of the CEO"
+    ],
+    [
+      "1571:951",
+      "1571:950",
+      "Ms. Zhang"
+    ],
+    [
+      "1571:952",
+      "1571:950",
+      "Personal agent\nJob title: Personal Assistant"
+    ],
+    [
+      "1571:956",
+      "1571:955",
+      "2 · WHAT WE HEARD"
+    ],
+    [
+      "1571:958",
+      "1571:957",
+      "“We usually call or use WeChat\nto confirm the requests.”"
+    ],
+    [
+      "1571:960",
+      "1571:957",
+      "“Small details often need\nrepeated back-and-forth.”"
+    ],
+    [
+      "1571:964",
+      "1571:957",
+      "“Texting always takes time and  makes me less willing to\nexplain more needs.”"
+    ],
+    [
+      "1571:962",
+      "1571:957",
+      "“Sometimes it is easier to\narrange things for the boss by\nourselves.”"
+    ],
+    [
+      "1571:965",
+      "1571:955",
+      "Source: personal agent interviews\nParaphrased interview feedback"
+    ],
+    [
+      "1571:969",
+      "1571:968",
+      "3 · COMMUNICATION TIME"
+    ],
+    [
+      "1571:970",
+      "1571:968",
+      ">5 min"
+    ],
+    [
+      "1571:971",
+      "1571:968",
+      "to coordinate special requests\nwhen booking for the boss"
+    ],
+    [
+      "1571:974",
+      "1571:973",
+      "WeChat"
+    ],
+    [
+      "1571:976",
+      "1571:975",
+      "Call"
+    ],
+    [
+      "1571:978",
+      "1571:977",
+      "Online"
+    ],
+    [
+      "1571:984",
+      "1571:983",
+      "Share Details"
+    ],
+    [
+      "1571:986",
+      "1571:985",
+      "typing..."
+    ],
+    [
+      "1571:988",
+      "1571:987",
+      "texting remains\nrequest unsaid.  "
+    ],
+    [
+      "1571:991",
+      "1571:990",
+      "- // The_second_key_finding_is - "
+    ],
+    [
+      "1571:992",
+      "1571:990",
+      "The Dream Maker in MO Shenzhen."
+    ],
+    [
+      "1571:997",
+      "1571:996",
+      "1 · DISCOVERED IN SHENZHEN"
+    ],
+    [
+      "1571:999",
+      "1571:998",
+      "Care beyond the booking."
+    ],
+    [
+      "1571:1000",
+      "1571:998",
+      "During our Shenzhen MO visit, we met the Dream Maker: a guest-facing role that uncovers unspoken needs and creates tangible moments of care and surprise."
+    ],
+    [
+      "1571:1003",
+      "1571:1002",
+      "Online request can never predict."
+    ],
+    [
+      "1571:1004",
+      "1571:1002",
+      "These needs are emerged in the moment. Online booking — even with a detailed agent briefing — cannot fully capture this context."
+    ],
+    [
+      "1571:1006",
+      "1571:996",
+      "Source: Shenzhen MO site visit · Team observation"
+    ],
+    [
+      "1571:1010",
+      "1571:1008",
+      "- // The_second_key_finding_is - "
+    ],
+    [
+      "1571:1011",
+      "1571:1008",
+      "The Dream Maker in MO Shenzhen."
+    ],
+    [
+      "1571:1016",
+      "1571:1015",
+      "1 · DISCOVERED IN SHENZHEN"
+    ],
+    [
+      "1571:1018",
+      "1571:1017",
+      "Care beyond the booking."
+    ],
+    [
+      "1571:1019",
+      "1571:1017",
+      "During our Shenzhen MO visit, we met the Dream Maker: a guest-facing role that uncovers unspoken needs and creates tangible moments of care and surprise."
+    ],
+    [
+      "1571:1022",
+      "1571:1021",
+      "Online request can never predict."
+    ],
+    [
+      "1571:1023",
+      "1571:1021",
+      "These needs are emerged in the moment. Online booking — even with a detailed agent briefing — cannot fully capture this context."
+    ],
+    [
+      "1571:1025",
+      "1571:1015",
+      "Source: Shenzhen MO site visit · Team observation"
+    ],
+    [
+      "1571:1029",
+      "1571:1028",
+      "2 · Limited contacting time"
+    ],
+    [
+      "1571:1031",
+      "1571:1030",
+      "5–8 min"
+    ],
+    [
+      "1571:1032",
+      "1571:1030",
+      "For limited contact time and room for needs discovery"
+    ],
+    [
+      "1571:1035",
+      "1571:1034",
+      "11/16"
+    ],
+    [
+      "1571:1036",
+      "1571:1034",
+      "complaints concerned\nsituation-based services\n(room / restaurant / package)"
+    ],
+    [
+      "1571:1038",
+      "1571:1037",
+      "Sources: \nSabeeApp (2024); Google review · n=16"
+    ],
+    [
+      "1571:1039",
+      "1571:1037",
+      "5–8 min: check-in reference only."
+    ],
+    [
+      "1571:1043",
+      "1571:1042",
+      "3 · FRAGMENTED HANDOFFS"
+    ],
+    [
+      "1571:1045",
+      "1571:1044",
+      "NO\nStandard SOP"
+    ],
+    [
+      "1571:1046",
+      "1571:1044",
+      "Similar roles.\nDifferent workflows."
+    ],
+    [
+      "1571:1047",
+      "1571:1042",
+      "Follow-up interviews found similar roles across the hotels discussed, but no shared, efficient process for consolidating insights and passing them between departments."
+    ],
+    [
+      "1571:1049",
+      "1571:1042",
+      "Source: MO online interview · 16 Sep\nTeam synthesis · hotels discussed"
+    ],
+    [
+      "1571:1051",
+      "1571:1050",
+      "- // This_gives_a_new_perspective - "
+    ],
+    [
+      "1571:1052",
+      "1571:1050",
+      "Two gaps. One shared goal."
+    ],
+    [
+      "1571:1058",
+      "1571:1057",
+      "GAP 01 · ONLINE BOOKING"
+    ],
+    [
+      "1571:1059",
+      "1571:1057",
+      "Texting leaves\nneeds unsaid."
+    ],
+    [
+      "1571:1060",
+      "1571:1057",
+      "Repeated texting discourages agents from sharing more specific needs."
+    ],
+    [
+      "1571:1064",
+      "1571:1063",
+      "GAP 02 · IN-PERSON OBSERVATION"
+    ],
+    [
+      "1571:1065",
+      "1571:1063",
+      "Observation needs\na shared process."
+    ],
+    [
+      "1571:1066",
+      "1571:1063",
+      "Brief contact and inconsistent handoffs limit the discovery and sharing of situational needs."
+    ],
+    [
+      "1571:1068",
+      "1571:1067",
+      "ONE SHARED INTENT"
+    ],
+    [
+      "1571:1069",
+      "1571:1067",
+      "Better\npre-arrival\ncustomization."
+    ],
+    [
+      "1571:1070",
+      "1571:1067",
+      "Prepare care online.\nRefine it in person."
+    ],
+    [
+      "1571:1073",
+      "1571:1072",
+      "Build recognition."
+    ],
+    [
+      "1571:1074",
+      "1571:1072",
+      "Online booking lays the foundation for knowing the guest."
+    ],
+    [
+      "1571:1076",
+      "1571:1075",
+      "Memorize recognition."
+    ],
+    [
+      "1571:1077",
+      "1571:1075",
+      "In-person observation adds a unique touch to reveal what matters in the moment."
+    ],
+    [
+      "1571:1082",
+      "1571:1081",
+      "RESPONSE 01 · PERSONAL AGENT"
+    ],
+    [
+      "1571:1083",
+      "1571:1081",
+      "Help agents say more."
+    ],
+    [
+      "1571:1084",
+      "1571:1081",
+      "Design a visual booking flow to help agents express specific needs faster."
+    ],
+    [
+      "1571:1085",
+      "1571:1081",
+      "Partner with agents; aim to limit extra hotel effort."
+    ],
+    [
+      "1571:1089",
+      "1571:1088",
+      "RESPONSE 02 · DREAM MAKER"
+    ],
+    [
+      "1571:1090",
+      "1571:1088",
+      "Connect earlier. Share better."
+    ],
+    [
+      "1571:1091",
+      "1571:1088",
+      "Design a standard SOP to help Dream Makers engage earlier and observe guests in context."
+    ],
+    [
+      "1571:1092",
+      "1571:1088",
+      "Record preferences in one shared guest profile."
+    ],
+    [
+      "1759:5852",
+      "1759:5781",
+      "Expected Business Outcomes"
+    ],
+    [
+      "1759:5853",
+      "1759:5781",
+      "- // Until_finally - "
+    ],
+    [
+      "1759:5854",
+      "1759:5781",
+      "Requirement Capture Rate:\n89.5% → 97.5%"
+    ],
+    [
+      "1759:5855",
+      "1759:5781",
+      "using visual options that guide guest needs while ensuring hotel delivery"
+    ],
+    [
+      "1759:5856",
+      "1759:5781",
+      "Special Request Entry Time:\n5 mins → 3 mins"
+    ],
+    [
+      "1759:5857",
+      "1759:5781",
+      "Replaces tedious manual typing with visual options, reducing input time while delivering far clearer requests"
+    ],
+    [
+      "1759:5858",
+      "1759:5781",
+      "Offline Service Complaints\n11 → 0"
+    ],
+    [
+      "1759:5859",
+      "1759:5781",
+      "Eliminates misalignments between booking and arrival (addresses 11/16 historical offline complaints)"
+    ],
+    [
+      "1759:5863",
+      "1759:5781",
+      "High-Net-Worth & Agent Retention Rate*: \n+ 15% ～ 25%"
+    ],
+    [
+      "1759:5865",
+      "1759:5864",
+      "Seamless pre-booking customization + On-site butler surprises\n\nDrives high-touch customer loyalty"
+    ],
+    [
+      "1759:5867",
+      "1759:5781",
+      "Assumption"
+    ],
+    [
+      "1759:5868",
+      "1759:5781",
+      "Source: Survey Methodology Research on Item Nonresponse (e.g., Dillman et al., Tailored Design Method). Open-ended formats typically yield 9–12% non-response due to cognitive load, whereas closed-ended options reduce non-response to <2%."
+    ],
+    [
+      "1759:5869",
+      "1759:5781",
+      "Source: User Interviews"
+    ],
+    [
+      "1759:5870",
+      "1759:5781",
+      "Source: Data from third-party booking platforms"
+    ],
+    [
+      "2040:7743",
+      "2040:7718",
+      "- // Here_They_Are - "
+    ],
+    [
+      "2040:7745",
+      "2040:7718",
+      "Recapping Our Two Interactive Touchpoints"
+    ],
+    [
+      "2040:7747",
+      "2040:7718",
+      "Lightweight, Standalone\nWeb Interface"
+    ],
+    [
+      "2040:7761",
+      "2040:7718",
+      "Intuitive\nButler Service Backend"
+    ],
+    [
+      "2040:7782",
+      "2040:7718",
+      "Streamlined\nSOPs"
+    ],
+    [
+      "1759:5916",
+      "1759:5872",
+      "Risks & Considerations"
+    ],
+    [
+      "1759:5917",
+      "1759:5872",
+      "- // Yet_Realistically - "
+    ],
+    [
+      "1759:5923",
+      "1759:5918",
+      "System Development & Maintenance Costs"
+    ],
+    [
+      "1759:5924",
+      "1759:5918",
+      "To Make It Real : Minimize Cost\n// Deploy lightweight & standalone web pages\n// Plug into existing MO booking channels"
+    ],
+    [
+      "1759:5926",
+      "1759:5925",
+      "Staffing & Butler Training Costs"
+    ],
+    [
+      "1759:5931",
+      "1759:5925",
+      "To Make It Real : Shorten the learning curve\n// Intuitive backend interface\n// Streamlined SOPs"
+    ],
+    [
+      "1759:5937",
+      "1759:5932",
+      "Prototype Testing & Fulfillment Boundaries "
+    ],
+    [
+      "1759:5938",
+      "1759:5932",
+      "To Make It Real : Test & Integrate\n// Validate feasibility and user experience\n// Integrate real-time inventory tracking to manage guest expectations"
+    ],
+    [
+      "1571:1103",
+      "1571:1101",
+      "- // Further_more - "
+    ],
+    [
+      "1571:1104",
+      "1571:1101",
+      "ONE USER · THE STAYING GUEST"
+    ],
+    [
+      "1571:1107",
+      "1571:1106",
+      "Set the intent"
+    ],
+    [
+      "1571:1109",
+      "1571:1108",
+      "Foundation of being recognized"
+    ],
+    [
+      "1571:1111",
+      "1571:1110",
+      "Memorable recognition"
+    ],
+    [
+      "1571:1114",
+      "1571:1113",
+      "Request\nbooking"
+    ],
+    [
+      "1571:1116",
+      "1571:1115",
+      "Airport\npick-up"
+    ],
+    [
+      "1571:1118",
+      "1571:1117",
+      "Arrive at\nthe hotel"
+    ],
+    [
+      "1571:1120",
+      "1571:1119",
+      "Luggage\nassistance"
+    ],
+    [
+      "1571:1122",
+      "1571:1121",
+      "Receive a\nwelcome"
+    ],
+    [
+      "1571:1124",
+      "1571:1123",
+      "Check-in"
+    ],
+    [
+      "1571:1126",
+      "1571:1125",
+      "Lead to\nthe room"
+    ],
+    [
+      "1571:1128",
+      "1571:1127",
+      "Stay Service"
+    ],
+    [
+      "1571:1129",
+      "1571:1127",
+      "Room experience"
+    ],
+    [
+      "1571:1130",
+      "1571:1101",
+      "STAGES"
+    ],
+    [
+      "1571:1165",
+      "1571:1131",
+      "SATISFACTION"
+    ],
+    [
+      "1571:1166",
+      "1571:1131",
+      "High"
+    ],
+    [
+      "1571:1167",
+      "1571:1131",
+      "Neutral"
+    ],
+    [
+      "1571:1168",
+      "1571:1131",
+      "Low"
+    ],
+    [
+      "1571:1169",
+      "1571:1131",
+      "Illustrative guest scenarios"
+    ],
+    [
+      "1571:1170",
+      "1571:1131",
+      "Checks met. Trust builds."
+    ],
+    [
+      "1571:1171",
+      "1571:1131",
+      "“I feel recognized.”"
+    ],
+    [
+      "1571:1172",
+      "1571:1131",
+      "No personal touch"
+    ],
+    [
+      "1571:1173",
+      "1571:1131",
+      "Bags left unattended"
+    ],
+    [
+      "1571:1174",
+      "1571:1131",
+      "Earlier failure unresolved"
+    ],
+    [
+      "1571:1175",
+      "1571:1131",
+      "Only a limited lift"
+    ],
+    [
+      "1571:1176",
+      "1571:1101",
+      "The guest actually check the whole process."
+    ],
+    [
+      "1571:1179",
+      "1571:1178",
+      "Guests check the basics that build recognition throughout the journey; unique touches in the room’s first minute can make it memorable and sharply lift satisfaction."
+    ],
+    [
+      "1571:1181",
+      "1571:1180",
+      "RESEARCH SUPPORT"
+    ],
+    [
+      "1571:1182",
+      "1571:1180",
+      "Oliver (1980) · checking expectations"
+    ],
+    [
+      "1571:1183",
+      "1571:1180",
+      "Kano et al. (1984) · basics versus delight"
+    ],
+    [
+      "1571:1184",
+      "1571:1180",
+      "Verhoef et al. (2009) · cumulative experience"
+    ],
+    [
+      "1571:1193",
+      "1571:1192",
+      "Agent"
+    ],
+    [
+      "1571:1194",
+      "1571:1192",
+      "Express guest needs"
+    ],
+    [
+      "1571:1196",
+      "1571:1195",
+      "Reservations"
+    ],
+    [
+      "1571:1197",
+      "1571:1195",
+      "Record & align"
+    ],
+    [
+      "1571:1199",
+      "1571:1198",
+      "Customer"
+    ],
+    [
+      "1571:1200",
+      "1571:1198",
+      "The guest staying"
+    ],
+    [
+      "1571:1202",
+      "1571:1201",
+      "Dream Maker"
+    ],
+    [
+      "1571:1203",
+      "1571:1201",
+      "Observe & refine"
+    ],
+    [
+      "1571:1205",
+      "1571:1204",
+      "Shared guest\nprofile"
+    ],
+    [
+      "1571:1209",
+      "1571:1208",
+      "Housekeeping"
+    ],
+    [
+      "1571:1211",
+      "1571:1210",
+      "Room services\n(amenities)"
+    ],
+    [
+      "1571:1213",
+      "1571:1212",
+      "Front desk"
+    ],
+    [
+      "1571:1215",
+      "1571:1214",
+      "Lobby manager"
+    ],
+    [
+      "1571:1217",
+      "1571:1216",
+      "Operations manager"
+    ],
+    [
+      "1571:1219",
+      "1571:1218",
+      "SPA services"
+    ],
+    [
+      "1571:1221",
+      "1571:1220",
+      "Fitness team"
+    ],
+    [
+      "1571:1225",
+      "1571:1224",
+      "Driver"
+    ],
+    [
+      "1571:1227",
+      "1571:1226",
+      "Welcome staff"
+    ],
+    [
+      "1571:1228",
+      "1571:1222",
+      "Arrival"
+    ],
+    [
+      "1571:1229",
+      "1571:1187",
+      "Room readiness"
+    ],
+    [
+      "1571:1230",
+      "1571:1187",
+      "Guest operations"
+    ],
+    [
+      "1571:1231",
+      "1571:1187",
+      "Wellness"
+    ],
+    [
+      "1571:1235",
+      "1571:1234",
+      "Restaurant services"
+    ],
+    [
+      "1571:1237",
+      "1571:1236",
+      "In-room dining"
+    ],
+    [
+      "1571:1238",
+      "1571:1232",
+      "Food & beverage"
+    ],
+    [
+      "1571:1239",
+      "1571:1187",
+      "AGENT + HOTEL  PARTNERSHIP"
+    ],
+    [
+      "1571:1283",
+      "1571:1187",
+      "Needs & agenda"
+    ],
+    [
+      "1571:1284",
+      "1571:1187",
+      "Booking &\npreferences"
+    ],
+    [
+      "1571:1285",
+      "1571:1187",
+      "Confirmation"
+    ],
+    [
+      "1571:1286",
+      "1571:1187",
+      "Room booking"
+    ],
+    [
+      "1571:1287",
+      "1571:1187",
+      "Cooperate"
+    ],
+    [
+      "1571:1288",
+      "1571:1187",
+      "Guest context\n& preferences"
+    ],
+    [
+      "1571:1289",
+      "1571:1187",
+      "New clues"
+    ],
+    [
+      "1571:1290",
+      "1571:1187",
+      "Personal service"
+    ],
+    [
+      "1571:1291",
+      "1571:1187",
+      "Arrival brief"
+    ],
+    [
+      "1571:1292",
+      "1571:1187",
+      "Room preferences"
+    ],
+    [
+      "1571:1293",
+      "1571:1187",
+      "Amenity updates"
+    ],
+    [
+      "1571:1294",
+      "1571:1187",
+      "Booking & guest profile"
+    ],
+    [
+      "1571:1295",
+      "1571:1187",
+      "Check-in & rooming"
+    ],
+    [
+      "1571:1296",
+      "1571:1187",
+      "Dining needs"
+    ],
+    [
+      "1571:1297",
+      "1571:1187",
+      "Wellness preferences"
+    ],
+    [
+      "1571:1300",
+      "1571:1298",
+      "Update"
+    ],
+    [
+      "1571:1303",
+      "1571:1301",
+      "Create"
+    ],
+    [
+      "1571:1307",
+      "1571:1185",
+      "- // Therefore_we_create - "
+    ],
+    [
+      "1571:1308",
+      "1571:1185",
+      "The Stakeholder Map."
+    ],
+    [
+      "1571:1309",
+      "1571:1185",
+      "DASHED → information / requests / confirmation"
+    ],
+    [
+      "1571:1310",
+      "1571:1185",
+      "SOLID → service delivered to the guest"
+    ],
+    [
+      "1571:1311",
+      "1571:1185",
+      "One shared guest intent. Clear handoffs to every team."
+    ],
+    [
+      "1571:1313",
+      "1571:1312",
+      "- // and - "
+    ],
+    [
+      "1571:1314",
+      "1571:1312",
+      "Service Blueprint."
+    ],
+    [
+      "1571:1315",
+      "1571:1312",
+      "From a booking brief to the guest’s first minute in the room."
+    ],
+    [
+      "1571:1319",
+      "1571:1318",
+      "THE JOURNEY"
+    ],
+    [
+      "1571:1320",
+      "1571:1318",
+      "Before arrival → room"
+    ],
+    [
+      "1571:1322",
+      "1571:1321",
+      "01  Talk to agent"
+    ],
+    [
+      "1571:1324",
+      "1571:1323",
+      "02  Book the hotel"
+    ],
+    [
+      "1571:1326",
+      "1571:1325",
+      "03  Before travel"
+    ],
+    [
+      "1571:1328",
+      "1571:1327",
+      "04  Pick-up & arrival"
+    ],
+    [
+      "1571:1330",
+      "1571:1329",
+      "05  Check-in & room"
+    ],
+    [
+      "1571:1333",
+      "1571:1332",
+      "ROW 2"
+    ],
+    [
+      "1571:1334",
+      "1571:1332",
+      "Backstage processes"
+    ],
+    [
+      "1571:1336",
+      "1571:1335",
+      "AGENT"
+    ],
+    [
+      "1571:1337",
+      "1571:1335",
+      "Interpret guest intent"
+    ],
+    [
+      "1571:1338",
+      "1571:1335",
+      "Turn known routines and\nrequests into a booking brief."
+    ],
+    [
+      "1571:1340",
+      "1571:1339",
+      "RESERVATIONS"
+    ],
+    [
+      "1571:1341",
+      "1571:1339",
+      "Record the stay"
+    ],
+    [
+      "1571:1342",
+      "1571:1339",
+      "Record timing, membership\nand guest preferences."
+    ],
+    [
+      "1571:1344",
+      "1571:1343",
+      "RESERVATIONS · SERVICE TEAMS"
+    ],
+    [
+      "1571:1345",
+      "1571:1343",
+      "Prepare & brief"
+    ],
+    [
+      "1571:1346",
+      "1571:1343",
+      "Prepare room & amenities;\nbrief staff; arrange dining,\nSPA and fitness bookings."
+    ],
+    [
+      "1571:1348",
+      "1571:1347",
+      "DREAM MAKER· SERVICE TEAMS"
+    ],
+    [
+      "1571:1349",
+      "1571:1347",
+      "Coordinate arrival"
+    ],
+    [
+      "1571:1350",
+      "1571:1347",
+      "Align timing and room readiness;\nrespond to schedule changes."
+    ],
+    [
+      "1571:1352",
+      "1571:1351",
+      "DREAM MAKER · SERVICE TEAMS"
+    ],
+    [
+      "1571:1353",
+      "1571:1351",
+      "Respond & relay"
+    ],
+    [
+      "1571:1354",
+      "1571:1351",
+      "Relay new needs to teams;\nupdate preference records."
+    ],
+    [
+      "1571:1357",
+      "1571:1356",
+      "ROW 3"
+    ],
+    [
+      "1571:1358",
+      "1571:1356",
+      "Enabling systems\n& rules"
+    ],
+    [
+      "1571:1360",
+      "1571:1359",
+      "Agent’s guest knowledge"
+    ],
+    [
+      "1571:1361",
+      "1571:1359",
+      "Travel agenda & known preferences"
+    ],
+    [
+      "1571:1363",
+      "1571:1362",
+      "Booking channels"
+    ],
+    [
+      "1571:1364",
+      "1571:1362",
+      "Phone · email · app"
+    ],
+    [
+      "1571:1366",
+      "1571:1365",
+      "Guest preference records"
+    ],
+    [
+      "1571:1367",
+      "1571:1365",
+      "OPERA / hotel guest records"
+    ],
+    [
+      "1571:1369",
+      "1571:1368",
+      "Reservations coordination"
+    ],
+    [
+      "1571:1370",
+      "1571:1368",
+      "Arrival brief & service arrangements"
+    ],
+    [
+      "1571:1372",
+      "1571:1371",
+      "Guest preference records"
+    ],
+    [
+      "1571:1373",
+      "1571:1371",
+      "New needs & follow-up"
+    ],
+    [
+      "1571:1397",
+      "1571:1316",
+      "LINE OF VISIBILITY"
+    ],
+    [
+      "1571:1398",
+      "1571:1316",
+      "INTERNAL INTERACTION"
+    ],
+    [
+      "1571:1399",
+      "1571:1316",
+      "New needs → guest preference record"
+    ],
+    [
+      "1571:1403",
+      "1571:1402",
+      "Share trip intent"
+    ],
+    [
+      "1571:1404",
+      "1571:1402",
+      "Tell agent dates, agenda\nand personal preferences."
+    ],
+    [
+      "1571:1406",
+      "1571:1405",
+      "Receive confirmation"
+    ],
+    [
+      "1571:1407",
+      "1571:1405",
+      "Agent handles the booking\nand specific requests."
+    ],
+    [
+      "1571:1409",
+      "1571:1408",
+      "Review travel details"
+    ],
+    [
+      "1571:1410",
+      "1571:1408",
+      "Receive confirmed room,\ntransfer and appointments."
+    ],
+    [
+      "1571:1412",
+      "1571:1411",
+      "Travel to the hotel"
+    ],
+    [
+      "1571:1413",
+      "1571:1411",
+      "Meet driver → transfer;\nget luggage assistance."
+    ],
+    [
+      "1571:1415",
+      "1571:1414",
+      "Enter the room"
+    ],
+    [
+      "1571:1416",
+      "1571:1414",
+      "Welcome & check-in;\nrooming → first minute."
+    ],
+    [
+      "1571:1420",
+      "1571:1419",
+      "AGENT ↔ GUEST"
+    ],
+    [
+      "1571:1421",
+      "1571:1419",
+      "Clarify the stay"
+    ],
+    [
+      "1571:1422",
+      "1571:1419",
+      "Discuss timing, routines\nand special requests."
+    ],
+    [
+      "1571:1424",
+      "1571:1423",
+      "AGENT ↔ RESERVATIONS"
+    ],
+    [
+      "1571:1425",
+      "1571:1423",
+      "Book & confirm"
+    ],
+    [
+      "1571:1426",
+      "1571:1423",
+      "Communicate the needs;\nshare intent and requests."
+    ],
+    [
+      "1571:1428",
+      "1571:1427",
+      "AGENT ↔ RESERVATIONS"
+    ],
+    [
+      "1571:1429",
+      "1571:1427",
+      "Check arrangements"
+    ],
+    [
+      "1571:1430",
+      "1571:1427",
+      "Confirm room, transfer\nand booked appointments."
+    ],
+    [
+      "1571:1432",
+      "1571:1431",
+      "ROW 1"
+    ],
+    [
+      "1571:1433",
+      "1571:1431",
+      "Customer-facing"
+    ],
+    [
+      "1571:1435",
+      "1571:1434",
+      "Guest"
+    ],
+    [
+      "1571:1437",
+      "1571:1436",
+      "Agent"
+    ],
+    [
+      "1571:1439",
+      "1571:1438",
+      "- // and - "
+    ],
+    [
+      "1571:1440",
+      "1571:1438",
+      "Service Blueprint."
+    ],
+    [
+      "1571:1441",
+      "1571:1438",
+      "From a booking brief to the guest’s first minute in the room."
+    ],
+    [
+      "1571:1445",
+      "1571:1444",
+      "THE JOURNEY"
+    ],
+    [
+      "1571:1446",
+      "1571:1444",
+      "Before arrival → room"
+    ],
+    [
+      "1571:1448",
+      "1571:1447",
+      "01  Talk to agent"
+    ],
+    [
+      "1571:1450",
+      "1571:1449",
+      "02  Book the hotel"
+    ],
+    [
+      "1571:1452",
+      "1571:1451",
+      "03  Before travel"
+    ],
+    [
+      "1571:1454",
+      "1571:1453",
+      "04  Pick-up & arrival"
+    ],
+    [
+      "1571:1456",
+      "1571:1455",
+      "05  Check-in & room"
+    ],
+    [
+      "1571:1459",
+      "1571:1458",
+      "ROW 2"
+    ],
+    [
+      "1571:1460",
+      "1571:1458",
+      "Backstage processes"
+    ],
+    [
+      "1571:1462",
+      "1571:1461",
+      "AGENT"
+    ],
+    [
+      "1571:1463",
+      "1571:1461",
+      "Interpret guest intent"
+    ],
+    [
+      "1571:1464",
+      "1571:1461",
+      "Turn known routines and\nrequests into a booking brief."
+    ],
+    [
+      "1571:1466",
+      "1571:1465",
+      "RESERVATIONS"
+    ],
+    [
+      "1571:1467",
+      "1571:1465",
+      "Record the stay"
+    ],
+    [
+      "1571:1468",
+      "1571:1465",
+      "Record timing, membership\nand guest preferences."
+    ],
+    [
+      "1571:1470",
+      "1571:1469",
+      "RESERVATIONS · SERVICE TEAMS"
+    ],
+    [
+      "1571:1471",
+      "1571:1469",
+      "Prepare & brief"
+    ],
+    [
+      "1571:1472",
+      "1571:1469",
+      "Prepare room & amenities;\nbrief staff; arrange dining,\nSPA and fitness bookings."
+    ],
+    [
+      "1571:1474",
+      "1571:1473",
+      "DREAM MAKER· SERVICE TEAMS"
+    ],
+    [
+      "1571:1475",
+      "1571:1473",
+      "Coordinate arrival"
+    ],
+    [
+      "1571:1476",
+      "1571:1473",
+      "Align timing and room readiness;\nrespond to schedule changes."
+    ],
+    [
+      "1571:1478",
+      "1571:1477",
+      "DREAM MAKER · SERVICE TEAMS"
+    ],
+    [
+      "1571:1479",
+      "1571:1477",
+      "Respond & relay"
+    ],
+    [
+      "1571:1480",
+      "1571:1477",
+      "Relay new needs to teams;\nupdate preference records."
+    ],
+    [
+      "1571:1483",
+      "1571:1482",
+      "ROW 3"
+    ],
+    [
+      "1571:1484",
+      "1571:1482",
+      "Enabling systems\n& rules"
+    ],
+    [
+      "1571:1486",
+      "1571:1485",
+      "Agent’s guest knowledge"
+    ],
+    [
+      "1571:1487",
+      "1571:1485",
+      "Travel agenda & known preferences"
+    ],
+    [
+      "1571:1489",
+      "1571:1488",
+      "Booking channels"
+    ],
+    [
+      "1571:1490",
+      "1571:1488",
+      "Phone · email · app"
+    ],
+    [
+      "1571:1492",
+      "1571:1491",
+      "Guest preference records"
+    ],
+    [
+      "1571:1493",
+      "1571:1491",
+      "OPERA / hotel guest records"
+    ],
+    [
+      "1571:1495",
+      "1571:1494",
+      "Reservations coordination"
+    ],
+    [
+      "1571:1496",
+      "1571:1494",
+      "Arrival brief & service arrangements"
+    ],
+    [
+      "1571:1498",
+      "1571:1497",
+      "Guest preference records"
+    ],
+    [
+      "1571:1499",
+      "1571:1497",
+      "New needs & follow-up"
+    ],
+    [
+      "1571:1523",
+      "1571:1442",
+      "LINE OF VISIBILITY"
+    ],
+    [
+      "1571:1524",
+      "1571:1442",
+      "INTERNAL INTERACTION"
+    ],
+    [
+      "1571:1525",
+      "1571:1442",
+      "New needs → guest preference record"
+    ],
+    [
+      "1571:1529",
+      "1571:1528",
+      "Share trip intent"
+    ],
+    [
+      "1571:1530",
+      "1571:1528",
+      "Tell agent dates, agenda\nand personal preferences."
+    ],
+    [
+      "1571:1532",
+      "1571:1531",
+      "Receive confirmation"
+    ],
+    [
+      "1571:1533",
+      "1571:1531",
+      "Agent handles the booking\nand specific requests."
+    ],
+    [
+      "1571:1535",
+      "1571:1534",
+      "Review travel details"
+    ],
+    [
+      "1571:1536",
+      "1571:1534",
+      "Receive confirmed room,\ntransfer and appointments."
+    ],
+    [
+      "1571:1538",
+      "1571:1537",
+      "Travel to the hotel"
+    ],
+    [
+      "1571:1539",
+      "1571:1537",
+      "Meet driver → transfer;\nget luggage assistance."
+    ],
+    [
+      "1571:1541",
+      "1571:1540",
+      "Enter the room"
+    ],
+    [
+      "1571:1542",
+      "1571:1540",
+      "Welcome & check-in;\nrooming → first minute."
+    ],
+    [
+      "1571:1546",
+      "1571:1545",
+      "AGENT ↔ GUEST"
+    ],
+    [
+      "1571:1547",
+      "1571:1545",
+      "Clarify the stay"
+    ],
+    [
+      "1571:1548",
+      "1571:1545",
+      "Discuss timing, routines\nand special requests."
+    ],
+    [
+      "1571:1550",
+      "1571:1549",
+      "AGENT ↔ RESERVATIONS"
+    ],
+    [
+      "1571:1551",
+      "1571:1549",
+      "Book & confirm"
+    ],
+    [
+      "1571:1552",
+      "1571:1549",
+      "Communicate the needs;\nshare intent and requests."
+    ],
+    [
+      "1571:1554",
+      "1571:1553",
+      "AGENT ↔ RESERVATIONS"
+    ],
+    [
+      "1571:1555",
+      "1571:1553",
+      "Check arrangements"
+    ],
+    [
+      "1571:1556",
+      "1571:1553",
+      "Confirm room, transfer\nand booked appointments."
+    ],
+    [
+      "1571:1558",
+      "1571:1557",
+      "ROW 1"
+    ],
+    [
+      "1571:1559",
+      "1571:1557",
+      "Customer-facing"
+    ],
+    [
+      "1571:1561",
+      "1571:1560",
+      "Guest"
+    ],
+    [
+      "1571:1563",
+      "1571:1562",
+      "Agent"
+    ],
+    [
+      "1571:1571",
+      "1571:1564",
+      "Repeated texting takes time and discourages agents from sharing specific guest needs."
+    ],
+    [
+      "1571:1572",
+      "1571:1564",
+      "GAP 01"
+    ],
+    [
+      "1571:1573",
+      "1571:1564",
+      "Texting leaves needs unsaid."
+    ],
+    [
+      "1571:1581",
+      "1571:1574",
+      "Limited contact and inconsistent workflows make situational needs difficult to discover."
+    ],
+    [
+      "1571:1582",
+      "1571:1574",
+      "GAP 02"
+    ],
+    [
+      "1571:1583",
+      "1571:1574",
+      "Limited contact and handoffs."
+    ],
+    [
+      "1725:4148",
+      "1725:4147",
+      "How might we…"
+    ],
+    [
+      "1725:4149",
+      "1725:4147",
+      "From information gap to a service opportunity."
+    ],
+    [
+      "1725:4153",
+      "1725:4147",
+      "help Dream Makers recognise emerging guest preferences and turn them into timely, feasible hotel responses?"
+    ],
+    [
+      "1725:4154",
+      "1725:4147",
+      "DREAM MAKER"
+    ],
+    [
+      "1725:4156",
+      "1725:4155",
+      "Three natural interactions."
+    ],
+    [
+      "1725:4157",
+      "1725:4155",
+      "From a guest signal to a shared service response."
+    ],
+    [
+      "1725:4160",
+      "1725:4159",
+      "01 DISCOVER"
+    ],
+    [
+      "1725:4161",
+      "1725:4159",
+      "Combine Agent information with signals emerging during arrival."
+    ],
+    [
+      "1725:4163",
+      "1725:4162",
+      "02 ARRANGE "
+    ],
+    [
+      "1725:4164",
+      "1725:4162",
+      "DM selects a feasible response and coordinates the hotel team."
+    ],
+    [
+      "1725:4166",
+      "1725:4165",
+      "03  EXECUTE"
+    ],
+    [
+      "1725:4167",
+      "1725:4165",
+      "The team delivers; DM records the outcome for future learning."
+    ],
+    [
+      "1725:4168",
+      "1725:4155",
+      "→"
+    ],
+    [
+      "1725:4169",
+      "1725:4155",
+      "→"
+    ],
+    [
+      "1725:4170",
+      "1725:4155",
+      "DREAM MAKER"
+    ],
+    [
+      "1725:4173",
+      "1725:4171",
+      "From Delight Signals to Shared Learning"
+    ],
+    [
+      "1725:4174",
+      "1725:4171",
+      "A connected workflow for planning surprises, coordinating delivery and retaining learning."
+    ],
+    [
+      "1725:4176",
+      "1725:4171",
+      "01 Discover"
+    ],
+    [
+      "1725:4178",
+      "1725:4171",
+      "02 Arrange"
+    ],
+    [
+      "1725:4180",
+      "1725:4171",
+      "03 Deliver & Review"
+    ],
+    [
+      "1725:4182",
+      "1725:4171",
+      "01"
+    ],
+    [
+      "1725:4183",
+      "1725:4171",
+      "Identify delight points"
+    ],
+    [
+      "1725:4184",
+      "1725:4171",
+      "Find opportunities in guest signals."
+    ],
+    [
+      "1725:4186",
+      "1725:4171",
+      "02"
+    ],
+    [
+      "1725:4187",
+      "1725:4171",
+      "Search for solutions"
+    ],
+    [
+      "1725:4188",
+      "1725:4171",
+      "AI + database"
+    ],
+    [
+      "1725:4191",
+      "1725:4171",
+      "03"
+    ],
+    [
+      "1725:4192",
+      "1725:4171",
+      "Develop delight plan"
+    ],
+    [
+      "1725:4193",
+      "1725:4171",
+      "Define the proposed surprise."
+    ],
+    [
+      "1725:4195",
+      "1725:4171",
+      "04"
+    ],
+    [
+      "1725:4196",
+      "1725:4171",
+      "Get supervisor approval"
+    ],
+    [
+      "1725:4197",
+      "1725:4171",
+      "Submit the plan for review."
+    ],
+    [
+      "1725:4199",
+      "1725:4171",
+      "05"
+    ],
+    [
+      "1725:4200",
+      "1725:4171",
+      "Assign to departments"
+    ],
+    [
+      "1725:4201",
+      "1725:4171",
+      "Send the plan to relevant teams."
+    ],
+    [
+      "1725:4203",
+      "1725:4171",
+      "06"
+    ],
+    [
+      "1725:4204",
+      "1725:4171",
+      "Receive feasibility feedback"
+    ],
+    [
+      "1725:4205",
+      "1725:4171",
+      "Confirm whether teams can deliver."
+    ],
+    [
+      "1725:4212",
+      "1725:4171",
+      "07"
+    ],
+    [
+      "1725:4213",
+      "1725:4171",
+      "Deliver & execute the delight"
+    ],
+    [
+      "1725:4214",
+      "1725:4171",
+      "Hotel teams carry out the service."
+    ],
+    [
+      "1725:4216",
+      "1725:4171",
+      "08"
+    ],
+    [
+      "1725:4217",
+      "1725:4171",
+      "Capture guest response"
+    ],
+    [
+      "1725:4218",
+      "1725:4171",
+      "Record the guest’s reaction."
+    ],
+    [
+      "1725:4220",
+      "1725:4171",
+      "09"
+    ],
+    [
+      "1725:4221",
+      "1725:4171",
+      "Review delight outcome"
+    ],
+    [
+      "1725:4222",
+      "1725:4171",
+      "Reflect on the service result."
+    ],
+    [
+      "1725:4224",
+      "1725:4171",
+      "Feasible"
+    ],
+    [
+      "1725:4229",
+      "1725:4171",
+      "GUEST LEARNING"
+    ],
+    [
+      "1725:4231",
+      "1725:4171",
+      "Update guest profile"
+    ],
+    [
+      "1725:4232",
+      "1725:4171",
+      "Retain insights for future guest care."
+    ],
+    [
+      "1725:4233",
+      "1725:4171",
+      "TEAM LEARNING"
+    ],
+    [
+      "1725:4235",
+      "1725:4171",
+      "Capture successful"
+    ],
+    [
+      "1725:4236",
+      "1725:4171",
+      "case"
+    ],
+    [
+      "1725:4239",
+      "1725:4171",
+      "AI structures"
+    ],
+    [
+      "1725:4240",
+      "1725:4171",
+      "learning"
+    ],
+    [
+      "1725:4243",
+      "1725:4171",
+      "Dream Maker"
+    ],
+    [
+      "1725:4244",
+      "1725:4171",
+      "database"
+    ],
+    [
+      "1725:4247",
+      "1725:4171",
+      "Reuse in future"
+    ],
+    [
+      "1725:4248",
+      "1725:4171",
+      "planning"
+    ],
+    [
+      "1725:4251",
+      "1725:4171",
+      "Reusable cases support the next search for solutions."
+    ],
+    [
+      "1725:4252",
+      "1725:4171",
+      "DREAM MAKER"
+    ],
+    [
+      "2134:3783",
+      "2134:3781",
+      "the workspace we create for dreammaker"
+    ],
+    [
+      "2138:393",
+      "2134:3781",
+      "Scan the QR code to try it out"
+    ],
+    [
+      "2134:3786",
+      "2134:3781",
+      "01 Discover"
+    ],
+    [
+      "2134:3862",
+      "2134:3781",
+      "DREAM MAKER"
+    ],
+    [
+      "1725:4255",
+      "1725:4253",
+      "DREAM MAKER"
+    ],
+    [
+      "1725:4256",
+      "1725:4253",
+      "Current Workflow & Challenges"
+    ],
+    [
+      "1725:4257",
+      "1725:4253",
+      "Dream making relies heavily on individual judgement and personal creativity."
+    ],
+    [
+      "1725:4258",
+      "1725:4253",
+      "THE WORKFLOW"
+    ],
+    [
+      "1725:4260",
+      "1725:4253",
+      "01 Identify delight points"
+    ],
+    [
+      "1725:4264",
+      "1725:4253",
+      "02 Arrange surprises"
+    ],
+    [
+      "1725:4268",
+      "1725:4253",
+      "03 Execute the delight"
+    ],
+    [
+      "1725:4270",
+      "1725:4253",
+      "THE CHALLENGE"
+    ],
+    [
+      "1725:4272",
+      "1725:4253",
+      "Individual"
+    ],
+    [
+      "1725:4273",
+      "1725:4253",
+      "judgement"
+    ],
+    [
+      "1725:4274",
+      "1725:4253",
+      "Opportunities depend on what"
+    ],
+    [
+      "1725:4275",
+      "1725:4253",
+      "each Dream Maker notices."
+    ],
+    [
+      "1725:4277",
+      "1725:4253",
+      "Individual"
+    ],
+    [
+      "1725:4278",
+      "1725:4253",
+      "creativity"
+    ],
+    [
+      "1725:4279",
+      "1725:4253",
+      "Ideas depend on personal"
+    ],
+    [
+      "1725:4280",
+      "1725:4253",
+      "experience and inspiration."
+    ],
+    [
+      "1725:4282",
+      "1725:4253",
+      "One-off"
+    ],
+    [
+      "1725:4283",
+      "1725:4253",
+      "experience"
+    ],
+    [
+      "1725:4284",
+      "1725:4253",
+      "Learning from each delivery is"
+    ],
+    [
+      "1725:4285",
+      "1725:4253",
+      "not consistently captured"
+    ],
+    [
+      "1725:4286",
+      "1725:4253",
+      "or reused."
+    ],
+    [
+      "1725:4288",
+      "1725:4253",
+      "Personal expertise drives each surprise, but learning does not consistently become shared knowledge."
+    ],
+    [
+      "1741:4566",
+      "1741:4565",
+      "From attentive observation to a memorable, personalised experience."
+    ],
+    [
+      "1741:4568",
+      "1741:4561",
+      "DREAM MAKER"
+    ],
+    [
+      "1741:4569",
+      "1741:4561",
+      "What is a Dream Maker?"
+    ],
+    [
+      "1741:4570",
+      "1741:4561",
+      "Turning potential delight points into an unexpected, personalised experience."
+    ],
+    [
+      "1741:4573",
+      "1741:4572",
+      "01  NOTICE"
+    ],
+    [
+      "1741:4574",
+      "1741:4572",
+      "Identify potential\ndelight points"
+    ],
+    [
+      "1741:4575",
+      "1741:4572",
+      "Notice meaningful details that reveal opportunities for personal care."
+    ],
+    [
+      "1741:4577",
+      "1741:4576",
+      "→"
+    ],
+    [
+      "1741:4579",
+      "1741:4578",
+      "02  DELIGHT"
+    ],
+    [
+      "1741:4580",
+      "1741:4578",
+      "Create unexpected,\npersonalised delight"
+    ],
+    [
+      "1741:4581",
+      "1741:4578",
+      "Turn a thoughtful gesture into a personal moment the guest remembers."
+    ],
+    [
+      "1687:4928",
+      "1132:734",
+      "Dream Maker 部分"
+    ],
+    [
+      "1725:4307",
+      "1725:4298",
+      "Agent ensures the service baseline.\n\nDream Maker ensures the service ceiling"
+    ],
+    [
+      "1871:393",
+      "1871:391",
+      "From Purpose to Preference"
+    ],
+    [
+      "1871:394",
+      "1871:391",
+      "- // Focus_on_the_purpose"
+    ],
+    [
+      "1871:395",
+      "1871:391",
+      "Instead of asking agents to describe every preference from scratch, the booking flow surfaces what may matter based on the purpose of the stay."
+    ],
+    [
+      "1871:396",
+      "1871:391",
+      "Guests may not always know what they need — and agents may not know what to ask."
+    ],
+    [
+      "1871:398",
+      "1871:397",
+      "Stay Purpose"
+    ],
+    [
+      "1871:399",
+      "1871:397",
+      "Relevant Preference Areas"
+    ],
+    [
+      "1871:400",
+      "1871:397",
+      "Playful Exploration & Choice"
+    ],
+    [
+      "1871:401",
+      "1871:397",
+      "Structured  Preferences"
+    ],
+    [
+      "1871:411",
+      "1871:409",
+      "Easier to Speak for the Guest"
+    ],
+    [
+      "1871:412",
+      "1871:409",
+      "- // For_agent_and_guest "
+    ],
+    [
+      "1871:413",
+      "1871:409",
+      "Less effort. More discovery. More personal."
+    ],
+    [
+      "1871:414",
+      "1871:409",
+      "Bring the agent into the service loop without adding more work."
+    ],
+    [
+      "1871:420",
+      "1871:416",
+      "Easy to Express"
+    ],
+    [
+      "1871:421",
+      "1871:416",
+      "Make guest needs easier for agents to communicate."
+    ],
+    [
+      "1871:426",
+      "1871:422",
+      "Playful to Explore"
+    ],
+    [
+      "1871:427",
+      "1871:422",
+      "Turn preference selection into a lighter, more engaging experience."
+    ],
+    [
+      "1871:432",
+      "1871:428",
+      "Flexible to Personalize"
+    ],
+    [
+      "1871:433",
+      "1871:428",
+      "Leave room and services for different needs and levels of detail."
+    ],
+    [
+      "2084:4",
+      "2084:2",
+      "What is a Dream Maker?"
+    ],
+    [
+      "2084:5",
+      "2084:2",
+      "- // The_second_gap -  "
+    ],
+    [
+      "2084:30",
+      "2084:2",
+      "Turning potential delight points into an unexpected, personalised experience."
+    ],
+    [
+      "2084:53",
+      "2084:52",
+      "From attentive observation to a memorable, personalised experience."
+    ],
+    [
+      "2084:56",
+      "2084:55",
+      "01  NOTICE"
+    ],
+    [
+      "2084:57",
+      "2084:55",
+      "Identify potential\ndelight points"
+    ],
+    [
+      "2084:58",
+      "2084:55",
+      "Notice meaningful details that reveal opportunities for personal care."
+    ],
+    [
+      "2084:60",
+      "2084:59",
+      "→"
+    ],
+    [
+      "2084:62",
+      "2084:61",
+      "02  DELIGHT"
+    ],
+    [
+      "2084:63",
+      "2084:61",
+      "Create unexpected,\npersonalised delight"
+    ],
+    [
+      "2084:64",
+      "2084:61",
+      "Turn a thoughtful gesture into a personal moment the guest remembers."
+    ],
+    [
+      "2084:69",
+      "2084:66",
+      "- // One_sentence -  "
+    ],
+    [
+      "2084:98",
+      "2084:66",
+      "Agent ensures the service baseline.\n\nDream Maker ensures the service ceiling"
+    ],
+    [
+      "2084:107",
+      "2084:105",
+      "- // Dream_maker -  "
+    ],
+    [
+      "2084:222",
+      "2084:105",
+      "Current Workflow & Challenges"
+    ],
+    [
+      "2084:223",
+      "2084:105",
+      "Dream making relies heavily on individual judgement and personal creativity."
+    ],
+    [
+      "2084:224",
+      "2084:105",
+      "THE WORKFLOW"
+    ],
+    [
+      "2084:226",
+      "2084:105",
+      "01 Identify delight points"
+    ],
+    [
+      "2084:230",
+      "2084:105",
+      "02 Arrange surprises"
+    ],
+    [
+      "2084:234",
+      "2084:105",
+      "03 Execute the delight"
+    ],
+    [
+      "2084:236",
+      "2084:105",
+      "THE CHALLENGE"
+    ],
+    [
+      "2084:238",
+      "2084:105",
+      "Individual"
+    ],
+    [
+      "2084:239",
+      "2084:105",
+      "judgement"
+    ],
+    [
+      "2084:240",
+      "2084:105",
+      "Opportunities depend on what"
+    ],
+    [
+      "2084:241",
+      "2084:105",
+      "each Dream Maker notices."
+    ],
+    [
+      "2084:243",
+      "2084:105",
+      "Individual"
+    ],
+    [
+      "2084:244",
+      "2084:105",
+      "creativity"
+    ],
+    [
+      "2084:245",
+      "2084:105",
+      "Ideas depend on personal"
+    ],
+    [
+      "2084:246",
+      "2084:105",
+      "experience and inspiration."
+    ],
+    [
+      "2084:248",
+      "2084:105",
+      "One-off"
+    ],
+    [
+      "2084:249",
+      "2084:105",
+      "experience"
+    ],
+    [
+      "2084:250",
+      "2084:105",
+      "Learning from each delivery is"
+    ],
+    [
+      "2084:251",
+      "2084:105",
+      "not consistently captured"
+    ],
+    [
+      "2084:252",
+      "2084:105",
+      "or reused."
+    ],
+    [
+      "2084:254",
+      "2084:105",
+      "Personal expertise drives each surprise, but learning does not consistently become shared knowledge."
+    ],
+    [
+      "2084:259",
+      "2084:257",
+      "- // Dream_maker -  "
+    ],
+    [
+      "2084:260",
+      "2084:257",
+      "How might we..."
+    ],
+    [
+      "2084:297",
+      "2084:257",
+      "From information gap to a service opportunity."
+    ],
+    [
+      "2084:306",
+      "2084:257",
+      "help Dream Makers recognise emerging guest preferences and turn them into timely, feasible hotel responses?"
+    ],
+    [
+      "2084:310",
+      "2084:308",
+      "- // Dream_maker -  "
+    ],
+    [
+      "2084:311",
+      "2084:308",
+      "Three natural interactions"
+    ],
+    [
+      "2084:312",
+      "2084:308",
+      "From a guest signal to a shared service response."
+    ],
+    [
+      "2084:319",
+      "2084:318",
+      "01 DISCOVER"
+    ],
+    [
+      "2084:320",
+      "2084:318",
+      "Combine Agent information with signals emerging during arrival."
+    ],
+    [
+      "2084:322",
+      "2084:321",
+      "02 ARRANGE "
+    ],
+    [
+      "2084:323",
+      "2084:321",
+      "DM selects a feasible response and coordinates the hotel team."
+    ],
+    [
+      "2084:325",
+      "2084:324",
+      "03  EXECUTE"
+    ],
+    [
+      "2084:326",
+      "2084:324",
+      "The team delivers; DM records the outcome for future learning."
+    ],
+    [
+      "2084:327",
+      "2084:308",
+      "→"
+    ],
+    [
+      "2084:328",
+      "2084:308",
+      "→"
+    ],
+    [
+      "2084:332",
+      "2084:330",
+      "- // Dream_maker -  "
+    ],
+    [
+      "2084:333",
+      "2084:330",
+      "From Delight Signals to Shared Learning"
+    ],
+    [
+      "2084:428",
+      "2084:330",
+      "01 Discover"
+    ],
+    [
+      "2084:430",
+      "2084:330",
+      "02 Arrange"
+    ],
+    [
+      "2084:432",
+      "2084:330",
+      "03 Deliver & Review"
+    ],
+    [
+      "2084:434",
+      "2084:330",
+      "01"
+    ],
+    [
+      "2084:435",
+      "2084:330",
+      "Identify delight points"
+    ],
+    [
+      "2084:436",
+      "2084:330",
+      "Find opportunities in guest signals."
+    ],
+    [
+      "2084:438",
+      "2084:330",
+      "02"
+    ],
+    [
+      "2084:439",
+      "2084:330",
+      "Search for solutions"
+    ],
+    [
+      "2084:440",
+      "2084:330",
+      "AI + database"
+    ],
+    [
+      "2084:443",
+      "2084:330",
+      "03"
+    ],
+    [
+      "2084:444",
+      "2084:330",
+      "Develop delight plan"
+    ],
+    [
+      "2084:445",
+      "2084:330",
+      "Define the proposed surprise."
+    ],
+    [
+      "2084:447",
+      "2084:330",
+      "04"
+    ],
+    [
+      "2084:448",
+      "2084:330",
+      "Get supervisor approval"
+    ],
+    [
+      "2084:449",
+      "2084:330",
+      "Submit the plan for review."
+    ],
+    [
+      "2084:451",
+      "2084:330",
+      "05"
+    ],
+    [
+      "2084:452",
+      "2084:330",
+      "Assign to departments"
+    ],
+    [
+      "2084:453",
+      "2084:330",
+      "Send the plan to relevant teams."
+    ],
+    [
+      "2084:455",
+      "2084:330",
+      "06"
+    ],
+    [
+      "2084:456",
+      "2084:330",
+      "Receive feasibility feedback"
+    ],
+    [
+      "2084:457",
+      "2084:330",
+      "Confirm whether teams can deliver."
+    ],
+    [
+      "2084:464",
+      "2084:330",
+      "07"
+    ],
+    [
+      "2084:465",
+      "2084:330",
+      "Deliver & execute the delight"
+    ],
+    [
+      "2084:466",
+      "2084:330",
+      "Hotel teams carry out the service."
+    ],
+    [
+      "2084:468",
+      "2084:330",
+      "08"
+    ],
+    [
+      "2084:469",
+      "2084:330",
+      "Capture guest response"
+    ],
+    [
+      "2084:470",
+      "2084:330",
+      "Record the guest’s reaction."
+    ],
+    [
+      "2084:472",
+      "2084:330",
+      "09"
+    ],
+    [
+      "2084:473",
+      "2084:330",
+      "Review delight outcome"
+    ],
+    [
+      "2084:474",
+      "2084:330",
+      "Reflect on the service result."
+    ],
+    [
+      "2084:476",
+      "2084:330",
+      "Feasible"
+    ],
+    [
+      "2084:481",
+      "2084:330",
+      "GUEST LEARNING"
+    ],
+    [
+      "2084:483",
+      "2084:330",
+      "Update guest profile"
+    ],
+    [
+      "2084:484",
+      "2084:330",
+      "Retain insights for future guest care."
+    ],
+    [
+      "2084:485",
+      "2084:330",
+      "TEAM LEARNING"
+    ],
+    [
+      "2084:487",
+      "2084:330",
+      "Capture successful"
+    ],
+    [
+      "2084:488",
+      "2084:330",
+      "case"
+    ],
+    [
+      "2084:491",
+      "2084:330",
+      "AI structures"
+    ],
+    [
+      "2084:492",
+      "2084:330",
+      "learning"
+    ],
+    [
+      "2084:495",
+      "2084:330",
+      "Dream Maker"
+    ],
+    [
+      "2084:496",
+      "2084:330",
+      "database"
+    ],
+    [
+      "2084:499",
+      "2084:330",
+      "Reuse in future"
+    ],
+    [
+      "2084:500",
+      "2084:330",
+      "planning"
+    ],
+    [
+      "2084:503",
+      "2084:330",
+      "Reusable cases support the next search for solutions."
+    ],
+    [
+      "2084:508",
+      "2084:330",
+      "A connected workflow for planning surprises, coordinating delivery and retaining learning."
+    ],
+    [
+      "1906:3819",
+      "1906:3817",
+      "Two Dimensions Behind Every Setup"
+    ],
+    [
+      "1906:3820",
+      "1906:3817",
+      "- // Dimension_1"
+    ],
+    [
+      "1906:3821",
+      "1906:3817",
+      "Dimension 1 — Service Scope"
+    ],
+    [
+      "1906:3844",
+      "1906:3817",
+      "Service scope expands from standard room preparation to additional in-room arrangements and beyond-room services."
+    ],
+    [
+      "1917:394",
+      "1917:393",
+      "L1"
+    ],
+    [
+      "1906:3828",
+      "1917:395",
+      "Standard Setup"
+    ],
+    [
+      "1906:3829",
+      "1917:395",
+      "Standard room amenities and routine adjustments."
+    ],
+    [
+      "1917:397",
+      "1917:396",
+      "L2"
+    ],
+    [
+      "1906:3836",
+      "1917:398",
+      "Additional In-Room Setup"
+    ],
+    [
+      "1906:3835",
+      "1917:398",
+      "Extra amenities and arrangements beyond the standard setup."
+    ],
+    [
+      "1917:400",
+      "1917:399",
+      "L3"
+    ],
+    [
+      "1906:3843",
+      "1917:401",
+      "Extended Services"
+    ],
+    [
+      "1917:402",
+      "1917:401",
+      "Coordinated by the Dream Maker"
+    ],
+    [
+      "1906:3842",
+      "1917:401",
+      "Services requiring coordination with other hotel departments or external partners by dream maker."
+    ],
+    [
+      "1917:437",
+      "1917:403",
+      "L1 Standard"
+    ],
+    [
+      "1917:438",
+      "1917:403",
+      "L2 In-room"
+    ],
+    [
+      "1917:439",
+      "1917:403",
+      "L3 Coordination"
+    ],
+    [
+      "1906:3849",
+      "1906:3847",
+      "Two Dimensions Behind Every Setup"
+    ],
+    [
+      "1906:3850",
+      "1906:3847",
+      "- // Dimension_2"
+    ],
+    [
+      "1906:3851",
+      "1906:3847",
+      "Dimension 2 — Degree of Personalization"
+    ],
+    [
+      "1906:3874",
+      "1906:3847",
+      "Personalization moves from a prepared baseline to agent-informed adjustments and fully custom requests."
+    ],
+    [
+      "1942:394",
+      "1942:393",
+      "01"
+    ],
+    [
+      "1942:396",
+      "1942:395",
+      "Default Setup"
+    ],
+    [
+      "1942:397",
+      "1942:395",
+      "A scenario-specific baseline prepared by the hotel."
+    ],
+    [
+      "1942:399",
+      "1942:398",
+      "02"
+    ],
+    [
+      "1942:401",
+      "1942:400",
+      "Agent-Personalized Setup"
+    ],
+    [
+      "1942:402",
+      "1942:400",
+      "Elements personalized by the agent based on known guest information."
+    ],
+    [
+      "1942:404",
+      "1942:403",
+      "03"
+    ],
+    [
+      "1942:406",
+      "1942:405",
+      "Custom Requests"
+    ],
+    [
+      "1942:407",
+      "1942:405",
+      "Coordinated by the Dream Maker"
+    ],
+    [
+      "1942:408",
+      "1942:405",
+      "Needs that require coordination with other hotel departments and Dream Maker follow-up."
+    ],
+    [
+      "1906:3952",
+      "1906:3916",
+      "L1 Default"
+    ],
+    [
+      "1906:3953",
+      "1906:3916",
+      "L2 Personalized"
+    ],
+    [
+      "1906:3954",
+      "1906:3916",
+      "L3 Custom"
+    ],
+    [
+      "1871:492",
+      "1871:490",
+      "One Scenario, One Preset Table"
+    ],
+    [
+      "1871:493",
+      "1871:490",
+      "- // The_universal_structure"
+    ],
+    [
+      "1871:494",
+      "1871:490",
+      "The same two-dimensional structure creates a different preset for each stay purpose."
+    ],
+    [
+      "1871:495",
+      "1871:490",
+      "Selected modules from Business Trip — In Your Zone"
+    ],
+    [
+      "1871:497",
+      "1871:496",
+      "L1 — Rest"
+    ],
+    [
+      "1871:498",
+      "1871:496",
+      "Default Setup"
+    ],
+    [
+      "1871:499",
+      "1871:496",
+      "Agent-Personalized Setup"
+    ],
+    [
+      "1871:500",
+      "1871:496",
+      "Custom Requests"
+    ],
+    [
+      "1871:501",
+      "1871:496",
+      "L1 — Desk"
+    ],
+    [
+      "1871:502",
+      "1871:496",
+      "Work-ready desk with charging points and office essentials"
+    ],
+    [
+      "1871:503",
+      "1871:496",
+      "Business meeting setup options"
+    ],
+    [
+      "1871:504",
+      "1871:496",
+      "Additional stationery, such as pens, paper and notepads."
+    ],
+    [
+      "1871:505",
+      "1871:496",
+      "Special workspace arrangements"
+    ],
+    [
+      "1871:506",
+      "1871:496",
+      "Quiet sleep environment with minimal interruption"
+    ],
+    [
+      "1871:507",
+      "1871:496",
+      "Pillow, room temperature and lighting preferences"
+    ],
+    [
+      "1871:508",
+      "1871:496",
+      "Special sleep arrangements"
+    ],
+    [
+      "1871:509",
+      "1871:496",
+      "Guest number, timing and beverage preferences"
+    ],
+    [
+      "1871:510",
+      "1871:496",
+      "Complex meeting setup and cross-department coordination"
+    ],
+    [
+      "1871:511",
+      "1871:496",
+      "L2 — Meeting Menu"
+    ],
+    [
+      "1871:512",
+      "1871:496",
+      "Special menu, table arrangement and dining coordination"
+    ],
+    [
+      "1871:513",
+      "1871:496",
+      "Restaurant reservation and preferred dining time"
+    ],
+    [
+      "1871:514",
+      "1871:496",
+      "L3 — Restaurant "
+    ],
+    [
+      "1871:522",
+      "1871:521",
+      "Leisure"
+    ],
+    [
+      "1871:523",
+      "1871:521",
+      "Unwind Your Way"
+    ],
+    [
+      "1871:531",
+      "1871:520",
+      "Designed Around the Journey"
+    ],
+    [
+      "1871:532",
+      "1871:520",
+      "- // Theme_matters"
+    ],
+    [
+      "1871:533",
+      "1871:520",
+      "Different journeys make different preferences relevant, so each booking starts with a curated setup shaped around the purpose of the stay."
+    ],
+    [
+      "1871:535",
+      "1871:534",
+      "Business Trip"
+    ],
+    [
+      "1871:536",
+      "1871:534",
+      "In Your Zone"
+    ],
+    [
+      "1871:544",
+      "1871:543",
+      "Honeymoon"
+    ],
+    [
+      "1871:545",
+      "1871:543",
+      "A World for Two"
+    ],
+    [
+      "1871:553",
+      "1871:552",
+      "Anniversary"
+    ],
+    [
+      "1871:554",
+      "1871:552",
+      "Our Story"
+    ],
+    [
+      "1871:563",
+      "1871:562",
+      "Birthday"
+    ],
+    [
+      "1871:564",
+      "1871:562",
+      "Your Day, Your Way"
+    ],
+    [
+      "1871:573",
+      "1871:572",
+      "Family Stay"
+    ],
+    [
+      "1871:574",
+      "1871:572",
+      "Together, Made Easy"
+    ],
+    [
+      "1973:4309",
+      "1973:4306",
+      "- // One_day - "
+    ],
+    [
+      "1973:14943",
+      "1973:14941",
+      "Different Journeys, One Simple Flow"
+    ],
+    [
+      "1973:14944",
+      "1973:14941",
+      "- // One_day - "
+    ],
+    [
+      "1973:14948",
+      "1973:14946",
+      "Business Trip "
+    ],
+    [
+      "1973:14949",
+      "1973:14946",
+      "In Your Zone"
+    ],
+    [
+      "1973:14950",
+      "1973:14946",
+      "Focus / Efficiency / Recovery"
+    ],
+    [
+      "1973:14953",
+      "1973:14951",
+      "Birthday"
+    ],
+    [
+      "1973:14954",
+      "1973:14951",
+      "Your Day, Your Way"
+    ],
+    [
+      "1973:14955",
+      "1973:14951",
+      "Celebration / Personal Touches"
+    ],
+    [
+      "1973:14958",
+      "1973:14956",
+      "Family Stay"
+    ],
+    [
+      "1973:14959",
+      "1973:14956",
+      "Together, Made Easy"
+    ],
+    [
+      "1973:14960",
+      "1973:14956",
+      "Convenience / Shared Time"
+    ],
+    [
+      "1973:14963",
+      "1973:14961",
+      "Anniversary "
+    ],
+    [
+      "1973:14964",
+      "1973:14961",
+      "Our Story"
+    ],
+    [
+      "1973:14965",
+      "1973:14961",
+      "Memory / Celebration"
+    ],
+    [
+      "1973:14968",
+      "1973:14966",
+      "Leisure"
+    ],
+    [
+      "1973:14969",
+      "1973:14966",
+      "Unwind Your Way"
+    ],
+    [
+      "1973:14970",
+      "1973:14966",
+      "Rest / Comfort / Exploration"
+    ],
+    [
+      "1973:14973",
+      "1973:14971",
+      "Honeymoon"
+    ],
+    [
+      "1973:14974",
+      "1973:14971",
+      "A World for Two"
+    ],
+    [
+      "1973:14975",
+      "1973:14971",
+      "Romance / Celebration"
+    ],
+    [
+      "1973:14977",
+      "1973:14976",
+      "Preset"
+    ],
+    [
+      "1973:14978",
+      "1973:14976",
+      "Personalize"
+    ],
+    [
+      "1973:14979",
+      "1973:14976",
+      "Explore"
+    ],
+    [
+      "1973:14986",
+      "1973:14941",
+      "Complex behind the scenes. Simple for the agent. Personal for the guest."
+    ],
+    [
+      "1973:14988",
+      "1973:14941",
+      "Scan to explore the full setup for each journey."
+    ],
+    [
+      "1973:14989",
+      "1973:14941",
+      "View All Presets"
+    ]
+  ]
+}
